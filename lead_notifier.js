@@ -83,16 +83,18 @@ function emailMeOnNewLead(e) {
     var courseList = chosenCourses.join(', ') || 'None selected (Basic Registration)';
 
     // Detect if this is an Edit or a New Submission
-    var rowKey = "row_" + rowNum;
-    var scriptProps = PropertiesService.getScriptProperties();
-    var lastTimestamp = scriptProps.getProperty(rowKey);
-    
-    // An edit is detected ONLY if we have a cached timestamp for this row AND it matches the current row timestamp
-    var currentTimestamp = String(rowValues[0]);
-    var isEdit = (lastTimestamp !== null && lastTimestamp === currentTimestamp);
-    
-    // Save current timestamp for this row
-    scriptProps.setProperty(rowKey, currentTimestamp);
+    // If the difference between the submission timestamp and the current time is greater than 60 seconds, it is an Edit.
+    var isEdit = false;
+    var timestampVal = rowValues[0];
+    if (timestampVal) {
+      var parsedDate = (timestampVal instanceof Date) ? timestampVal : new Date(timestampVal);
+      if (!isNaN(parsedDate.getTime())) {
+        var diffMs = Math.abs(new Date().getTime() - parsedDate.getTime());
+        if (diffMs > 60000) { // 60 seconds threshold
+          isEdit = true;
+        }
+      }
+    }
 
     // Configure email subject and body header based on Edit status
     var subjectPrefix = isEdit ? "✏️ EDITED PW LEAD: " : "🔥 NEW PW LEAD: ";
