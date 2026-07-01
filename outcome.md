@@ -1,6 +1,6 @@
 # PW Ambassador Scraped Course Batches (All Categories)
 
-**Date:** 2026-07-01 16:41:39  
+**Date:** 2026-07-01 17:24:25  
 **Method:** DIRECT_API  
 
 ## Category Scrape Summary
@@ -218,7 +218,7 @@
 | Surya 3.0 SSC CGL Target 2026 | ONLINE | SSC CGL | SSC | BATCH | Hinglish | ₹1699 | 41% | ₹999 | SSC CGL | Starts on 6th Jul’26 |
 | SSC CGL Mahapack | ONLINE | SSC CGL | SSC CGL | BATCH | Hinglish | ₹3499 | 37% | ₹2199 | SSC CGL | Access to SSC CGL Courses | 9, 12 & 24 Month Plans Available |
 | SAFAR 3.0 SSC CGL | CHSL 2027 with English Books | ONLINE | SSC | SSC CGL,CHSL | BATCH | Hinglish | ₹3499 | 36% | ₹2249 | SSC | Started on 18th Jun’26 |
-| SSC Mahapack Pro | ONLINE | SSC Exams | SSC | BATCH | Hinglish | ₹6249 | 57% | ₹2699 | SSC Exams | Access to all SSC Courses |
+| SSC Mahapack Pro | ONLINE | SSC Exams | SSC | BATCH | Hinglish | ₹6249 | 52% | ₹2999 | SSC Exams | Access to all SSC Courses |
 | Kamyabi 3.0 SSC CHSL Target 2026 | ONLINE | SSC CHSL | SSC CHSL | BATCH | Hinglish | ₹1999 | 38% | ₹1249 | SSC CHSL | Started on 24th Jun’26 |
 | Surya 2.0 SSC CGL Target 2026 | ONLINE | SSC CGL | SSC CGL | BATCH | Hinglish | ₹1699 | 41% | ₹999 | SSC CGL | Started on 17th Jun’26 |
 | SSC CHSL Mahapack | ONLINE | SSC CHSL | SSC CHSL | BATCH | Hinglish | ₹2999 | 33% | ₹1999 | SSC CHSL | Access to SSC CHSL Courses | 9, 12 & 24 Month Plans Available |
@@ -316,7 +316,7 @@
 | Surya 3.0 SSC CGL Target 2026 | ONLINE | SSC CGL | SSC | BATCH | Hinglish | ₹1699 | 41% | ₹999 | SSC CGL | Starts on 6th Jul’26 |
 | SSC CGL Mahapack | ONLINE | SSC CGL | SSC CGL | BATCH | Hinglish | ₹3499 | 37% | ₹2199 | SSC CGL | Access to SSC CGL Courses | 9, 12 & 24 Month Plans Available |
 | SAFAR 3.0 SSC CGL | CHSL 2027 with English Books | ONLINE | SSC | SSC CGL,CHSL | BATCH | Hinglish | ₹3499 | 36% | ₹2249 | SSC | Started on 18th Jun’26 |
-| SSC Mahapack Pro | ONLINE | SSC Exams | SSC | BATCH | Hinglish | ₹6249 | 57% | ₹2699 | SSC Exams | Access to all SSC Courses |
+| SSC Mahapack Pro | ONLINE | SSC Exams | SSC | BATCH | Hinglish | ₹6249 | 52% | ₹2999 | SSC Exams | Access to all SSC Courses |
 | Kamyabi 3.0 SSC CHSL Target 2026 | ONLINE | SSC CHSL | SSC CHSL | BATCH | Hinglish | ₹1999 | 38% | ₹1249 | SSC CHSL | Started on 24th Jun’26 |
 | Surya 2.0 SSC CGL Target 2026 | ONLINE | SSC CGL | SSC CGL | BATCH | Hinglish | ₹1699 | 41% | ₹999 | SSC CGL | Started on 17th Jun’26 |
 | SSC CHSL Mahapack | ONLINE | SSC CHSL | SSC CHSL | BATCH | Hinglish | ₹2999 | 33% | ₹1999 | SSC CHSL | Access to SSC CHSL Courses | 9, 12 & 24 Month Plans Available |

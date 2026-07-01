@@ -238,6 +238,14 @@ def main():
     else:
         # Save outcomes
         save_outcomes(scraped_data)
+        
+        # Generate Google Apps Script code for Google Forms
+        try:
+            from form_generator import generate_apps_script
+            generate_apps_script()
+        except Exception as e:
+            print(f"Warning: Could not generate Apps Script: {e}")
+            
         total_extracted = sum(len(courses) for courses in scraped_data["categories"].values())
         print("\n" + "="*60)
         print("Scrape complete!")
