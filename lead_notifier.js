@@ -23,38 +23,61 @@ function emailMeOnNewLead(e) {
     var headers = sheet.getRange(1, 1, 1, lastCol).getValues()[0];
     var rowValues = sheet.getRange(rowNum, 1, 1, lastCol).getValues()[0];
 
-    // Build a map of Header -> Value
-    var dataMap = {};
-    for (var i = 0; i < headers.length; i++) {
-      dataMap[headers[i]] = rowValues[i];
-    }
-
-    // Extract demographic fields directly using question headers (always present)
-    var name = dataMap['Student Full Name'] || 'N/A';
-    var mobile = dataMap['Mobile Number (For Callback Verification)'] || 'N/A';
-    var whatsapp = dataMap['WhatsApp Number (If different from calling number)'] || 'N/A';
-    var status = dataMap['Student Current Academic Status'] || 'N/A';
-    var location = dataMap['City & State'] || 'N/A';
-    var explore = dataMap['Would you like to explore course batches and unlock exclusive ambassador discounts now?'] || 'N/A';
-
+    // Extract fields by looping through headers and row values in parallel
+    var name = 'N/A';
+    var mobile = 'N/A';
+    var whatsapp = 'N/A';
+    var status = 'N/A';
+    var location = 'N/A';
+    var explore = 'N/A';
     var category = 'N/A';
     var modeLang = 'N/A';
     var chosenCourses = [];
 
-    // Loop through all dataMap keys to collect Category, Mode/Lang, and Checkbox Courses dynamically
-    for (var key in dataMap) {
-      var val = dataMap[key];
-      if (!val) continue;
+    var prefMode = '';
+    var prefLang = '';
 
-      if (key.indexOf('Select your target Category:') !== -1) {
-        category = val;
-      } else if (key.indexOf('Select Mode & Language for') !== -1) {
-        modeLang = val;
-      } else if (key.indexOf('Select one or more courses') !== -1) {
-        chosenCourses.push(val);
-      } else if (key.indexOf('If you chose Other') !== -1 || key.indexOf('desired Course or Batch Name') !== -1) {
-        chosenCourses.push("Other: " + val);
+    for (var i = 0; i < headers.length; i++) {
+      var header = headers[i];
+      var val = rowValues[i];
+      if (!header || val === undefined || val === null) continue;
+      
+      var strVal = String(val).trim();
+      if (strVal === '') continue;
+
+      // Extract demographics
+      if (header === 'Student Full Name') {
+        name = strVal;
+      } else if (header === 'Mobile Number (For Callback Verification)') {
+        mobile = strVal;
+      } else if (header === 'WhatsApp Number (If different from calling number)') {
+        whatsapp = strVal;
+      } else if (header === 'Student Current Academic Status') {
+        status = strVal;
+      } else if (header === 'City & State') {
+        location = strVal;
+      } else if (header === 'Would you like to explore course batches and unlock exclusive ambassador discounts now?') {
+        explore = strVal;
+      } 
+      // Extract course options
+      else if (header.indexOf('Select your target Category:') !== -1) {
+        category = strVal;
+      } else if (header.indexOf('Select Mode & Language for') !== -1) {
+        modeLang = strVal;
+      } else if (header.indexOf('Select one or more courses') !== -1) {
+        chosenCourses.push(strVal);
+      } else if (header.indexOf('If you chose Other') !== -1 || header.indexOf('desired Course or Batch Name') !== -1) {
+        chosenCourses.push("Other: " + strVal);
+      } else if (header.indexOf('Preferred Mode of Learning:') !== -1) {
+        prefMode = strVal;
+      } else if (header.indexOf('Preferred Batch Language:') !== -1) {
+        prefLang = strVal;
       }
+    }
+
+    // If Category is Other, combine Preferred Mode and Language
+    if (category === 'Other / Course Not Listed' && prefMode && prefLang) {
+      modeLang = prefMode + " - " + prefLang;
     }
 
     var courseList = chosenCourses.join(', ') || 'None selected (Basic Registration)';
