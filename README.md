@@ -104,6 +104,25 @@ python api_scraper.py
 
 ---
 
+### Step 3: Set up Lead Email Notifications (Spreadsheet Side)
+To receive email alerts instantly whenever a student submits your Google Form:
+1. Open the created Google Form in your browser.
+2. Go to the **Responses** tab and click the green **Link to Sheets** icon to create or open the response Google Sheet.
+3. In the Google Sheet, click **Extensions** > **Apps Script** in the top menu.
+4. Copy the `emailMeOnNewLead` function from the bottom of your generated [google_apps_script.js](file:///D:/Download/PW%20Ambassador/google_apps_script.js) file.
+5. Paste it into the Google Sheet Apps Script editor and replace `'your-email@gmail.com'` with your actual email address.
+6. Click the **Save** icon.
+7. In the left sidebar of the script editor, click the clock icon (**Triggers**).
+8. Click the **+ Add Trigger** button in the bottom right corner and set:
+   - **Choose which function to run:** `emailMeOnNewLead`
+   - **Choose which deployment should run:** `Head`
+   - **Select event source:** `From spreadsheet`
+   - **Select event type:** `On form submit`
+9. Click **Save** and click through to authorize permissions.
+10. **Done!** You will now receive instant, automated email notifications (with student details, mobile, category, and selected batches) the moment a response is submitted.
+
+---
+
 ## 📊 Sample Output Format (Scraped Data)
 
 The generated tables in `outcome.md` list all the courses with their respective modes, target years, types, and discount prices:
