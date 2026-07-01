@@ -206,23 +206,32 @@ function createPWAmbassadorFormV4() {
   Logger.log('Published URL (For Students): ' + form.getPublishedUrl());
   Logger.log('==================================================');
 }
+""")
+    
+    # Save the Form Creator script
+    try:
+        with open(script_file, "w", encoding="utf-8") as f_out:
+            f_out.write("\n".join(js_code))
+        print(f"Form Generator: Successfully generated Apps Script code to {script_file}")
+    except Exception as e:
+        print(f"Error saving google_apps_script.js: {e}")
 
-/**
- * Lead Notification Script
+    # Generate the Lead Notifier script in a separate file
+    notifier_file = os.path.join(os.path.dirname(__file__), "lead_notifier.js")
+    notifier_code = """/**
+ * Lead Notification Script (Spreadsheet Side)
  * Automatically triggers and sends an email alert with the student's details
  * every time a new response is submitted.
  * 
  * How to setup:
  * 1. Open your Google Form response Spreadsheet.
  * 2. Click 'Extensions' > 'Apps Script' in the top menu.
- * 3. Paste this function into the editor (below any other code).
+ * 3. Paste this function into the editor.
  * 4. Replace 'your-email@gmail.com' with your actual email address.
  * 5. In the left sidebar of the script editor, click the clock icon (Triggers).
  * 6. Click '+ Add Trigger' at the bottom right.
  * 7. Choose function: 'emailMeOnNewLead'
  * 8. Choose event source: 'From spreadsheet'
- * 9. Choose event type: 'On form submit'
- * 10. Click Save and authorize permissions.
  */
 function emailMeOnNewLead(e) {
   try {
@@ -278,15 +287,13 @@ function emailMeOnNewLead(e) {
     Logger.log('Error sending notification: ' + err.toString());
   }
 }
-""")
-    
-    # Save the output file
+"""
     try:
-        with open(script_file, "w", encoding="utf-8") as f_out:
-            f_out.write("\n".join(js_code))
-        print(f"Form Generator: Successfully generated Apps Script code to {script_file}")
+        with open(notifier_file, "w", encoding="utf-8") as f_out:
+            f_out.write(notifier_code)
+        print(f"Form Generator: Successfully generated Lead Notifier code to {notifier_file}")
     except Exception as e:
-        print(f"Error saving google_apps_script.js: {e}")
+        print(f"Error saving lead_notifier.js: {e}")
 
 if __name__ == "__main__":
     generate_apps_script()

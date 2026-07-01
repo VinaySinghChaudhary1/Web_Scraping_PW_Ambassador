@@ -30,6 +30,7 @@ It dynamically handles complex SPA redirection logic, class-selection modals, if
 ├── selenium_scraper.py     # Fallback Selenium-based scraper targeting DOM elements
 ├── form_generator.py       # Compiles scraped courses into Google Apps Script code
 ├── google_apps_script.js   # Automated Javascript code to create the branching Google Form
+├── lead_notifier.js        # Automated Javascript code for Google Sheet email notifications
 ├── cohorts_list.json       # JSON mapping of 52 categories/sub-classes to cohort IDs
 ├── outcome.json            # Scraped course data output in structured JSON
 ├── outcome.md              # Scraped course data output in formatted Markdown tables
@@ -109,7 +110,7 @@ To receive email alerts instantly whenever a student submits your Google Form:
 1. Open the created Google Form in your browser.
 2. Go to the **Responses** tab and click the green **Link to Sheets** icon to create or open the response Google Sheet.
 3. In the Google Sheet, click **Extensions** > **Apps Script** in the top menu.
-4. Copy the `emailMeOnNewLead` function from the bottom of your generated [google_apps_script.js](file:///D:/Download/PW%20Ambassador/google_apps_script.js) file.
+4. Copy the entire contents of your generated [lead_notifier.js](file:///D:/Download/PW%20Ambassador/lead_notifier.js) file.
 5. Paste it into the Google Sheet Apps Script editor and replace `'your-email@gmail.com'` with your actual email address.
 6. Click the **Save** icon.
 7. In the left sidebar of the script editor, click the clock icon (**Triggers**).
