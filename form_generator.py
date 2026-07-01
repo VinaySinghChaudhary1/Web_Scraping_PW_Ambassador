@@ -321,10 +321,13 @@ function emailMeOnNewLead(e) {
     var rowKey = "row_" + rowNum;
     var scriptProps = PropertiesService.getScriptProperties();
     var lastTimestamp = scriptProps.getProperty(rowKey);
-    var isEdit = (lastTimestamp !== null);
+    
+    // An edit is detected ONLY if we have a cached timestamp for this row AND it matches the current row timestamp
+    var currentTimestamp = String(rowValues[0]);
+    var isEdit = (lastTimestamp !== null && lastTimestamp === currentTimestamp);
     
     // Save current timestamp for this row
-    scriptProps.setProperty(rowKey, String(rowValues[0]));
+    scriptProps.setProperty(rowKey, currentTimestamp);
 
     // Configure email subject and body header based on Edit status
     var subjectPrefix = isEdit ? "✏️ EDITED PW LEAD: " : "🔥 NEW PW LEAD: ";
