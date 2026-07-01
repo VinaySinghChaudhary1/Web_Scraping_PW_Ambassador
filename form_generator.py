@@ -122,11 +122,22 @@ function createPWAmbassadorFormV4() {
         js_code.append(f"  var {cat_var} = form.addPageBreakItem().setTitle('{escaped_cat} Options');")
         js_code.append(f"  var {ml_var} = form.addMultipleChoiceItem().setTitle('Select Mode & Language for {escaped_cat}:').setRequired(true);")
         
+    # Declare the Other Category Page Break and Questions
+    js_code.append("\n  // Declare Page and Questions for 'Other / Course Not Listed' Option")
+    js_code.append("  var otherCatPage = form.addPageBreakItem().setTitle('Other Course Registration');")
+    js_code.append("  form.addTextItem().setTitle('Enter your desired Course or Batch Name:').setRequired(true);")
+    js_code.append("  form.addMultipleChoiceItem().setTitle('Preferred Mode of Learning:').setChoiceValues(['ONLINE Mode', 'OFFLINE Mode']).setRequired(true);")
+    js_code.append("  form.addMultipleChoiceItem().setTitle('Preferred Batch Language:').setChoiceValues(['Hinglish Language', 'English Medium', 'Hindi Medium']).setRequired(true);")
+    js_code.append("  otherCatPage.setGoToPage(FormApp.PageNavigationType.SUBMIT);")
+
     js_code.append("\n  // Link main Category question to Category Pages")
     category_choices_js = []
     for cat_name, cat_var in cat_vars.items():
         escaped_cat = escape_js_string(cat_name)
         category_choices_js.append(f"    categoryQuestion.createChoice('{escaped_cat}', {cat_var})")
+    
+    # Append the Other option choice
+    category_choices_js.append("    categoryQuestion.createChoice('Other / Course Not Listed', otherCatPage)")
     
     js_code.append("  categoryQuestion.setChoices([\n" + ",\n".join(category_choices_js) + "\n  ]);\n")
     
@@ -175,11 +186,15 @@ function createPWAmbassadorFormV4() {
                 label = f"{title} (Price: Rs. {price} | Rs. {orig_price} {discount}% OFF)"
                 course_names.append(escape_js_string(label))
                 
+            # Add Other option to course list
+            course_names.append("Other (Please specify below)")
+            
             # Render checkbox item in Apps Script
             js_code.append(f"  form.addCheckboxItem()")
             js_code.append(f"    .setTitle('Select one or more courses to register for:')")
             js_code.append(f"    .setChoiceValues({json.dumps(course_names, ensure_ascii=False)})")
             js_code.append(f"    .setRequired(true);")
+            js_code.append(f"  form.addTextItem().setTitle('If you chose Other, enter the Course/Batch Name here:');")
             
             # Create a choice for the Mode/Language selector on the category page
             choice_label = f"{mode} Mode - {lang} Language"
@@ -221,7 +236,7 @@ function createPWAmbassadorFormV4() {
     notifier_code = """/**
  * Lead Notification Script (Spreadsheet Side)
  * Automatically triggers and sends an email alert with the student's details
- * every time a new response is submitted.
+ * every time a new response is submitted or edited.
  * 
  * How to setup:
  * 1. Open your Google Form response Spreadsheet.
@@ -232,24 +247,38 @@ function createPWAmbassadorFormV4() {
  * 6. Click '+ Add Trigger' at the bottom right.
  * 7. Choose function: 'emailMeOnNewLead'
  * 8. Choose event source: 'From spreadsheet'
+ * 9. Choose event type: 'On form submit'
+ * 10. Click Save and authorize permissions.
  */
 function emailMeOnNewLead(e) {
   try {
+    var sheet = e.range.getSheet();
+    var rowNum = e.range.getRow();
+    var lastCol = sheet.getLastColumn();
+    var headers = sheet.getRange(1, 1, 1, lastCol).getValues()[0];
+    var rowValues = sheet.getRange(rowNum, 1, 1, lastCol).getValues()[0];
+
+    // Build a map of Header -> Value
+    var dataMap = {};
+    for (var i = 0; i < headers.length; i++) {
+      dataMap[headers[i]] = rowValues[i];
+    }
+
     // Extract demographic fields directly using question headers (always present)
-    var name = e.namedValues['Student Full Name'] ? e.namedValues['Student Full Name'][0] : 'N/A';
-    var mobile = e.namedValues['Mobile Number (For Callback Verification)'] ? e.namedValues['Mobile Number (For Callback Verification)'][0] : 'N/A';
-    var whatsapp = e.namedValues['WhatsApp Number (If different from calling number)'] ? e.namedValues['WhatsApp Number (If different from calling number)'][0] : 'N/A';
-    var status = e.namedValues['Student Current Academic Status'] ? e.namedValues['Student Current Academic Status'][0] : 'N/A';
-    var location = e.namedValues['City & State'] ? e.namedValues['City & State'][0] : 'N/A';
-    var explore = e.namedValues['Would you like to explore course batches and unlock exclusive ambassador discounts now?'] ? e.namedValues['Would you like to explore course batches and unlock exclusive ambassador discounts now?'][0] : 'N/A';
+    var name = dataMap['Student Full Name'] || 'N/A';
+    var mobile = dataMap['Mobile Number (For Callback Verification)'] || 'N/A';
+    var whatsapp = dataMap['WhatsApp Number (If different from calling number)'] || 'N/A';
+    var status = dataMap['Student Current Academic Status'] || 'N/A';
+    var location = dataMap['City & State'] || 'N/A';
+    var explore = dataMap['Would you like to explore course batches and unlock exclusive ambassador discounts now?'] || 'N/A';
 
     var category = 'N/A';
     var modeLang = 'N/A';
     var chosenCourses = [];
 
-    // Loop through all submitted namedValues to collect Category, Mode/Lang, and Checkbox Courses dynamically
-    for (var key in e.namedValues) {
-      var val = e.namedValues[key][0];
+    // Loop through all dataMap keys to collect Category, Mode/Lang, and Checkbox Courses dynamically
+    for (var key in dataMap) {
+      var val = dataMap[key];
       if (!val) continue;
 
       if (key.indexOf('Select your target Category:') !== -1) {
@@ -258,17 +287,32 @@ function emailMeOnNewLead(e) {
         modeLang = val;
       } else if (key.indexOf('Select one or more courses') !== -1) {
         chosenCourses.push(val);
+      } else if (key.indexOf('If you chose Other') !== -1 || key.indexOf('desired Course or Batch Name') !== -1) {
+        chosenCourses.push("Other: " + val);
       }
     }
 
     var courseList = chosenCourses.join(', ') || 'None selected (Basic Registration)';
 
+    // Detect if this is an Edit or a New Submission
+    var rowKey = "row_" + rowNum;
+    var scriptProps = PropertiesService.getScriptProperties();
+    var lastTimestamp = scriptProps.getProperty(rowKey);
+    var isEdit = (lastTimestamp !== null);
+    
+    // Save current timestamp for this row
+    scriptProps.setProperty(rowKey, String(rowValues[0]));
+
+    // Configure email subject and body header based on Edit status
+    var subjectPrefix = isEdit ? "✏️ EDITED PW LEAD: " : "🔥 NEW PW LEAD: ";
+    var bodyHeader = isEdit ? "⚠️ EDIT NOTICE: This student has updated their registration details!" : "You have a new student lead waiting!";
+
     // Draft the notification email
     var myEmail = "your-email@gmail.com"; // <-- REPLACE WITH YOUR EMAIL ADDRESS
-    var subject = "🔥 NEW PW LEAD: " + name + " (" + category + ")";
+    var subject = subjectPrefix + name + " (" + category + ")";
     
     var body = "Hey Vinay,\\n\\n" +
-               "You have a new student lead waiting!\\n\\n" +
+               bodyHeader + "\\n\\n" +
                "👤 Name: " + name + "\\n" +
                "📞 Mobile: " + mobile + "\\n" +
                "💬 WhatsApp: " + whatsapp + "\\n" +
@@ -282,7 +326,7 @@ function emailMeOnNewLead(e) {
                "Call them immediately to lock in their incentive!";
                
     MailApp.sendEmail(myEmail, subject, body);
-    Logger.log('Notification sent successfully for lead: ' + name);
+    Logger.log('Notification sent successfully. Edit: ' + isEdit + ', Lead: ' + name);
   } catch (err) {
     Logger.log('Error sending notification: ' + err.toString());
   }
