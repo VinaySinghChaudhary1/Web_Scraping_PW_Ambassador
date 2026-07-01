@@ -92,11 +92,11 @@ def save_outcomes(scraped_data):
                 f.write("*No courses available in this category.*\n\n")
                 continue
                 
-            f.write("| Course Title | Language | Original Price | Discount | Offer Price | Description / Info |\n")
-            f.write("| --- | --- | --- | --- | --- | --- |\n")
+            f.write("| Course Title | Mode | Target Year | Course Type | Batch Type | Language | Original Price | Discount | Offer Price | Description / Info |\n")
+            f.write("| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n")
             for course in courses:
                 desc_clean = course["description"].replace('\n', ' ').strip()
-                f.write(f"| {course['title']} | {course['language']} | ₹{course['price']} | {course['discount']}% | ₹{course['total']} | {desc_clean} |\n")
+                f.write(f"| {course['title']} | {course['mode']} | {course['target_year']} | {course['course_type']} | {course['batch_type']} | {course['language']} | ₹{course['price']} | {course['discount']}% | ₹{course['total']} | {desc_clean} |\n")
             f.write("\n")
 
 def main():
@@ -169,6 +169,19 @@ def main():
                         if not language:
                             language = "N/A"
                             
+                        # New fields requested by user
+                        mode = info.get("mode") or "ONLINE"
+                        
+                        target_year = info.get("config", {}).get("card", {}).get("examTarget")
+                        if not target_year:
+                            # Fallback: check examYear
+                            target_year = info.get("examYear")
+                        if not target_year:
+                            target_year = "N/A"
+                            
+                        course_type = card.get("target") or info.get("courseType") or "N/A"
+                        batch_type = info.get("batchGroupType") or info.get("type") or "N/A"
+                        
                         # Extract fees
                         fees = card.get("fees", {}) if card else {}
                         if not fees:
@@ -191,6 +204,10 @@ def main():
                             
                         course_info = {
                             "title": title,
+                            "mode": mode,
+                            "target_year": target_year,
+                            "course_type": course_type,
+                            "batch_type": batch_type,
                             "language": language,
                             "price": str(price),
                             "discount": str(discount),

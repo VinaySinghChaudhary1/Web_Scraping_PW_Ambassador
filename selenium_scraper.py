@@ -180,11 +180,11 @@ def save_outcomes(scraped_data):
                 f.write("*No courses available in this category.*\n\n")
                 continue
                 
-            f.write("| Course Title | Language | Original Price | Discount | Offer Price | Description / Info |\n")
-            f.write("| --- | --- | --- | --- | --- | --- |\n")
+            f.write("| Course Title | Mode | Target Year | Course Type | Batch Type | Language | Original Price | Discount | Offer Price | Description / Info |\n")
+            f.write("| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n")
             for course in courses:
                 desc_clean = course["description"].replace('\n', ' ').strip()
-                f.write(f"| {course['title']} | {course['language']} | ₹{course['price']} | {course['discount']}% | ₹{course['total']} | {desc_clean} |\n")
+                f.write(f"| {course['title']} | {course['mode']} | {course['target_year']} | {course['course_type']} | {course['batch_type']} | {course['language']} | ₹{course['price']} | {course['discount']}% | ₹{course['total']} | {desc_clean} |\n")
             f.write("\n")
 
 def main():
@@ -238,6 +238,18 @@ def main():
     print("="*60)
     
     try:
+        # Load cohorts list from cohorts_list.json if it exists
+        cohorts_file = os.path.join(os.path.dirname(__file__), "cohorts_list.json")
+        if os.path.exists(cohorts_file):
+            try:
+                with open(cohorts_file, "r", encoding="utf-8") as f:
+                    loaded_cohorts = json.load(f)
+                    if loaded_cohorts:
+                        cohorts = loaded_cohorts
+                        print(f"Using {len(cohorts)} pre-mapped categories from cohorts_list.json.")
+            except Exception as e:
+                print(f"Warning: Could not read cohorts_list.json: {e}")
+
         for idx, ch in enumerate(cohorts):
             ch_name = ch["name"]
             ch_id = ch["id"]
@@ -256,7 +268,6 @@ def main():
                 iframes = driver.find_elements(By.ID, "batchIframe")
                 if not iframes:
                     print(f"   -> No courses iframe found for category {ch_name}. Skipping.")
-                    # Switch back to default just in case
                     driver.switch_to.default_content()
                     continue
                     
@@ -274,7 +285,13 @@ def main():
                     total = card.get_attribute("total") or "0"
                     discount = card.get_attribute("discount") or "0"
                     language = card.get_attribute("language") or "N/A"
+                    course_type = card.get_attribute("category") or "N/A"
+                    batch_type = card.get_attribute("batchtype") or "N/A"
                     desc_pointers_str = card.get_attribute("description-pointers") or ""
+                    
+                    # Deduce mode and target year from attributes
+                    mode = "ONLINE" if "E_BATCH" in batch_type else "OFFLINE"
+                    target_year = "N/A"
                     
                     desc = ""
                     if desc_pointers_str:
@@ -283,10 +300,18 @@ def main():
                             if isinstance(pointers, list):
                                 desc_items = []
                                 for p in pointers:
+                                    p_text = ""
                                     if isinstance(p, dict) and "text" in p:
-                                        desc_items.append(p["text"])
+                                        p_text = p["text"]
+                                        desc_items.append(p_text)
                                     elif isinstance(p, str):
-                                        desc_items.append(p)
+                                        p_text = p
+                                        desc_items.append(p_text)
+                                    
+                                    # Attempt to extract target year
+                                    if p_text and (re.search(r'\d{4}', p_text) or '_' in p_text) and target_year == "N/A":
+                                        target_year = p_text
+                                        
                                 desc = " | ".join(desc_items)
                             else:
                                 desc = str(pointers)
@@ -298,6 +323,10 @@ def main():
                     
                     course_info = {
                         "title": batch_name,
+                        "mode": mode,
+                        "target_year": target_year,
+                        "course_type": course_type,
+                        "batch_type": batch_type,
                         "language": language,
                         "price": price,
                         "discount": discount,
