@@ -38,6 +38,20 @@ It dynamically handles complex SPA redirection logic, class-selection modals, if
 
 ---
 
+## 🔑 How the Authentication Token is Managed
+
+The API scraper (`api_scraper.py`) runs entirely in the command line and **does not open a browser window** to ask you to log in. Instead, it uses an authorization token:
+
+1. **First-time Run:** If the script doesn't find a `token.txt` file in your folder, it stops and prompts you directly in the terminal:
+   ```
+   Please paste your TOKEN here:
+   ```
+2. **Auto-Saving:** When you paste the token and hit Enter, **the script automatically creates the `token.txt` file in the folder and saves your token inside it**. You do not need to create or edit this file manually.
+3. **Future Runs:** On subsequent runs, the script detects `token.txt` automatically, reads the saved token, and scrapes the data instantly without prompting you.
+4. **Token Expiry:** If the API returns a `401 Unauthorized` (meaning your token has expired), the script will automatically delete `token.txt` and ask you for a fresh token on the next run.
+
+---
+
 ## 🛠️ Installation & Setup
 
 ### 1. Prerequisites
@@ -72,8 +86,8 @@ This fetches all course details and automatically compiles the Google Form gener
 ```bash
 python api_scraper.py
 ```
-* **First Run:** Paste your copied authorization token when prompted. The script will save it to `token.txt` and use it automatically on subsequent runs.
-* **Outcome:** It crawls the 52 categories, saves outcomes to `outcome.json` / `outcome.md`, and **automatically runs `form_generator.py` to write `google_apps_script.js`**.
+* On your first run, copy the token from your browser console and **paste it directly into the terminal prompt**. The script will automatically create `token.txt` and save it.
+* It will crawl the 52 categories, save outcomes to `outcome.json` / `outcome.md`, and **automatically run `form_generator.py` to write `google_apps_script.js`**.
 
 ---
 
