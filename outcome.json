@@ -1,0 +1,3995 @@
+{
+  "timestamp": "2026-07-01 15:56:43",
+  "categories": {
+    "IIT-JEE - Class 11": [
+      {
+        "title": "Arjuna JEE 2027",
+        "language": "Hinglish",
+        "price": "6000",
+        "discount": "17",
+        "total": "4999",
+        "description": "JEE 2027 | Started on 13th Apr’26"
+      },
+      {
+        "title": "Arjuna JEE 2.0 2027",
+        "language": "Hinglish",
+        "price": "5500",
+        "discount": "11",
+        "total": "4900",
+        "description": "JEE 2028 | Started on 1st Jun’26"
+      },
+      {
+        "title": "Vidyapeeth 11 JEE (Target 2028)",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "Batch starting in June | Upto 40% off"
+      },
+      {
+        "title": "UDAY 2.0 2027 (Class 11th)",
+        "language": "Hinglish",
+        "price": "4500",
+        "discount": "22",
+        "total": "3500",
+        "description": "School Preparation | Started on 1st Jul’26"
+      },
+      {
+        "title": "Arjuna Power Batch JEE Target 2028 3.1 (J1131AB26)",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "JEE 2028 | Started on 8th Jun’26"
+      },
+      {
+        "title": "Arjuna JEE Hindi 2.0 2027",
+        "language": "Hindi",
+        "price": "5200",
+        "discount": "38",
+        "total": "3199",
+        "description": "JEE 2027 | Starts on 13th Jul’26"
+      },
+      {
+        "title": "UDAY 2027 (Class 11th)",
+        "language": "Hinglish",
+        "price": "4800",
+        "discount": "27",
+        "total": "3500",
+        "description": "School Preparation | Started on 6th May’26"
+      },
+      {
+        "title": "Arjuna JEE 2027 + Lakshya JEE 2028",
+        "language": "Hinglish",
+        "price": "12400",
+        "discount": "29",
+        "total": "8800",
+        "description": "JEE 2028 | Started on 13th Apr’26"
+      },
+      {
+        "title": "Lakshya JEE 2027",
+        "language": "Hinglish",
+        "price": "6000",
+        "discount": "17",
+        "total": "4999",
+        "description": "JEE 2027 | Bridge course started on 26 Mar'26 | Syllabus starts on 6 Apr'26"
+      },
+      {
+        "title": "Arjuna JEE in English 2027",
+        "language": "English",
+        "price": "6300",
+        "discount": "33",
+        "total": "4200",
+        "description": "JEE 2028 | Started on 25th May’26"
+      },
+      {
+        "title": "Arjuna MHT-CET 2027",
+        "language": "Bilingual",
+        "price": "6000",
+        "discount": "23",
+        "total": "4600",
+        "description": "MHTCET 2027 | Started on 4th Jun’26"
+      },
+      {
+        "title": "Arjuna JEE 2027 + Uday 2027",
+        "language": "Hinglish",
+        "price": "10800",
+        "discount": "31",
+        "total": "7500",
+        "description": "JEE 2028 | Started on 13th Apr’26"
+      },
+      {
+        "title": "Arjuna Bangla (WBJEE + Biology) 2027 + Lakshya Bangla (WBJEE + Biology) 2028",
+        "language": "Bilingual",
+        "price": "12000",
+        "discount": "40",
+        "total": "7200",
+        "description": "WBJEE 2027 | Started on 27th Apr’26"
+      },
+      {
+        "title": "Arjuna JEE Gujarati 2027",
+        "language": "Gujrati",
+        "price": "7000",
+        "discount": "21",
+        "total": "5500",
+        "description": "JEE 2028 | Started on 25th May’26"
+      },
+      {
+        "title": "Arjuna JEE Gujarati 2027 Pro + Tab",
+        "language": "Gujrati",
+        "price": "27000",
+        "discount": "15",
+        "total": "23000",
+        "description": "Boards, IIT JEE | Started on 25th Feb’26"
+      },
+      {
+        "title": "Arjuna KCET 2027",
+        "language": "Kannada",
+        "price": "6500",
+        "discount": "31",
+        "total": "4499",
+        "description": "KCET 2027 | Started on 25th May’26"
+      },
+      {
+        "title": "Arjuna Power Batch JEE Target 2028 (English) (J1111EE26)",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "JEE 2028 | Started on 26th Mar’26"
+      },
+      {
+        "title": "Arjuna Bangla (WBJEE + Biology) 2027",
+        "language": "Bangla",
+        "price": "6000",
+        "discount": "23",
+        "total": "4600",
+        "description": "WBJEE 2027 | Started on 27th Apr’26"
+      },
+      {
+        "title": "Arjuna JEE Hindi 2027",
+        "language": "Hindi",
+        "price": "5500",
+        "discount": "36",
+        "total": "3499",
+        "description": "JEE 2027 | Started on 29th Apr’26"
+      },
+      {
+        "title": "Pathshala 11th JEE (Target 2028)",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "Batch starting in June | Upto 40% off"
+      }
+    ],
+    "IIT-JEE - Class 12": [
+      {
+        "title": "Lakshya JEE 2027",
+        "language": "Hinglish",
+        "price": "6000",
+        "discount": "17",
+        "total": "4999",
+        "description": "JEE 2027 | Bridge course started on 26 Mar'26 | Syllabus starts on 6 Apr'26"
+      },
+      {
+        "title": "Lakshya JEE 2.0 2027",
+        "language": "Hinglish",
+        "price": "5500",
+        "discount": "11",
+        "total": "4900",
+        "description": "JEE 2027 | Started on 15th Jun’26"
+      },
+      {
+        "title": "Vidyapeeth 12th JEE (Target 2027)",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "Batch starting in June | Upto 40% off"
+      },
+      {
+        "title": "Lakshya JEE Hindi 2.0 2027",
+        "language": "Hindi",
+        "price": "5200",
+        "discount": "38",
+        "total": "3199",
+        "description": "JEE 2027 | Starts on 6th Jul’26"
+      },
+      {
+        "title": "Lakshya Power Batch JEE Target 2027 3.1 (J1231EB26)",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "JEE 2027 | Started on 25th May’26"
+      },
+      {
+        "title": "Lakshya JEE Hindi 2027",
+        "language": "Hindi",
+        "price": "5500",
+        "discount": "36",
+        "total": "3499",
+        "description": "JEE 2027 | Started on 13th Apr’26"
+      },
+      {
+        "title": "PARISHRAM 2027 (Class 12th)",
+        "language": "Hinglish",
+        "price": "4800",
+        "discount": "27",
+        "total": "3500",
+        "description": "Boards 2027 | Started on 23rd Apr’26"
+      },
+      {
+        "title": "Lakshya MHTCET 2.0 2027",
+        "language": "Bilingual",
+        "price": "6000",
+        "discount": "23",
+        "total": "4600",
+        "description": "MHTCET 2027 | Starts on 13th Jul’26"
+      },
+      {
+        "title": "Lakshya MHT-CET 0.0 2027",
+        "language": "Bilingual",
+        "price": "6000",
+        "discount": "23",
+        "total": "4600",
+        "description": "MHTCET 2027 | Started on 19th Feb’26"
+      },
+      {
+        "title": "JEE College Counselling: Masterclass",
+        "language": "Hinglish",
+        "price": "999",
+        "discount": "80",
+        "total": "199",
+        "description": "JEE 2027 | Started on 3rd Jun’26"
+      },
+      {
+        "title": "Lakshya JEE in English 2027",
+        "language": "English",
+        "price": "6300",
+        "discount": "33",
+        "total": "4200",
+        "description": "JEE 2027 | Started on 20th Apr’26"
+      },
+      {
+        "title": "LAKSHYA JEE 2027 + PARISHRAM 2027",
+        "language": "Hinglish",
+        "price": "11100",
+        "discount": "32",
+        "total": "7500",
+        "description": "JEE 2027 | Started on 25th Mar’26"
+      },
+      {
+        "title": "Lakshya JEE Gujarati 2027",
+        "language": "Gujrati",
+        "price": "7000",
+        "discount": "21",
+        "total": "5500",
+        "description": "JEE 2027 | Started on 27th Apr’26"
+      },
+      {
+        "title": "Lakshya JEE Gujarati Pro +Tab 2027",
+        "language": "Gujrati",
+        "price": "25500",
+        "discount": "10",
+        "total": "23000",
+        "description": "JEE 2027 | Started on 27th Apr’26"
+      },
+      {
+        "title": "Lakshya KCET 2027",
+        "language": "Kannada",
+        "price": "6500",
+        "discount": "23",
+        "total": "4999",
+        "description": "KCET 2027 | Started on 13th Apr’26"
+      },
+      {
+        "title": "Lakshya Power Batch  JEE Target 2027 (English) (J1211EE26)",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "JEE 2027 | Started on 25th Mar’26"
+      },
+      {
+        "title": "Lakshya Bangla (WBJEE + Biology) 2027",
+        "language": "Bangla",
+        "price": "6000",
+        "discount": "23",
+        "total": "4600",
+        "description": "WBJEE 2027 | Started on 13th Apr’26"
+      },
+      {
+        "title": "BITSAT Crash Course 2026",
+        "language": "Hinglish",
+        "price": "4430",
+        "discount": "89",
+        "total": "499",
+        "description": "BITSAT 2026 | Started on 11th Feb’26"
+      },
+      {
+        "title": "Lakshya MHT-CET 2027 + Parishram Maharashtra HSC 2027",
+        "language": "Bilingual",
+        "price": "9999",
+        "discount": "30",
+        "total": "6999",
+        "description": "MHTCET 2027 | Started on 27th Apr’26"
+      },
+      {
+        "title": "Pathshala 12th JEE (Target 2027)",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "Batch starting in June | Upto 40% off"
+      }
+    ],
+    "IIT-JEE - Dropper": [
+      {
+        "title": "Prayas 2.0 2027",
+        "language": "Hinglish",
+        "price": "6000",
+        "discount": "18",
+        "total": "4900",
+        "description": "JEE 2027 | Team Goat Class Start 8th June 2026 | Team OG Class Start 15th June 2026"
+      },
+      {
+        "title": "Prayas JEE Hindi 2.0 2027",
+        "language": "Hindi",
+        "price": "5200",
+        "discount": "38",
+        "total": "3199",
+        "description": "JEE 2027 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Vidyapeeth Dropper JEE (Target 2027)",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "Batch starting in June | Upto 40% off"
+      },
+      {
+        "title": "Prayas 2.0 2027 INFINITY PRO",
+        "language": "Hinglish",
+        "price": "29072",
+        "discount": "60",
+        "total": "11500",
+        "description": "JEE 2027 | Team Goat Class Start 8th June 2026 | Team OG Class Start 15th June 2026"
+      },
+      {
+        "title": "Prayas Power Batch JEE Target 2027 3.1 (J1331MB26)",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "JEE 2027 | Started on 1st Jun’26"
+      },
+      {
+        "title": "Prayas 2027",
+        "language": "Hinglish",
+        "price": "6000",
+        "discount": "17",
+        "total": "4999",
+        "description": "JEE 2027 | Started on 22nd Apr’26"
+      },
+      {
+        "title": "Prayas JEE Hindi 2027",
+        "language": "Hindi",
+        "price": "5500",
+        "discount": "36",
+        "total": "3499",
+        "description": "JEE 2027 | Started on 11th May’26"
+      },
+      {
+        "title": "JEE College Counselling: Masterclass",
+        "language": "Hinglish",
+        "price": "999",
+        "discount": "80",
+        "total": "199",
+        "description": "JEE 2027 | Started on 3rd Jun’26"
+      },
+      {
+        "title": "Prayas MHT-CET 2027 (Dropper)",
+        "language": "Bilingual",
+        "price": "6000",
+        "discount": "23",
+        "total": "4600",
+        "description": "MHTCET 2027 | Starts on 20th Jul’26"
+      },
+      {
+        "title": "Lakshya MHT-CET 2027",
+        "language": "Bilingual",
+        "price": "6000",
+        "discount": "23",
+        "total": "4600",
+        "description": "MHTCET 2027 | Started on 27th Apr’26"
+      },
+      {
+        "title": "Lakshya JEE Gujarati 2027",
+        "language": "Gujrati",
+        "price": "7000",
+        "discount": "21",
+        "total": "5500",
+        "description": "JEE 2027 | Started on 27th Apr’26"
+      },
+      {
+        "title": "Lakshya KCET 2027",
+        "language": "Kannada",
+        "price": "6500",
+        "discount": "23",
+        "total": "4999",
+        "description": "KCET 2027 | Started on 13th Apr’26"
+      },
+      {
+        "title": "Lakshya Bangla (WBJEE + Biology) 2027",
+        "language": "Bangla",
+        "price": "6000",
+        "discount": "23",
+        "total": "4600",
+        "description": "WBJEE 2027 | Started on 13th Apr’26"
+      },
+      {
+        "title": "BITSAT Crash Course 2026",
+        "language": "Hinglish",
+        "price": "4430",
+        "discount": "89",
+        "total": "499",
+        "description": "BITSAT 2026 | Started on 11th Feb’26"
+      },
+      {
+        "title": "Pathshala DROPPER JEE (Target 2027)",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "Batch starting in June | Upto 40% off"
+      },
+      {
+        "title": "NIRMAAN GATE 2029 - Civil (With Basics & AI Fundamentals)",
+        "language": "Hinglish",
+        "price": "65343",
+        "discount": "51",
+        "total": "32000",
+        "description": "Exam Target | Started on 1st Jun’26"
+      },
+      {
+        "title": "NIRMAAN GATE 2029 - Civil (With Basics & AI Fundamentals) without Books",
+        "language": "Hinglish",
+        "price": "58000",
+        "discount": "48",
+        "total": "30000",
+        "description": "Civil | Started on 1st Jun’26"
+      },
+      {
+        "title": "NIRMAAN GATE 2029 - Computer Science & IT (With Basics & AI Fundamentals)",
+        "language": "Hinglish",
+        "price": "65247",
+        "discount": "51",
+        "total": "32000",
+        "description": "Exam Target | Started on 1st Jun’26"
+      },
+      {
+        "title": "NIRMAAN GATE 2029 - Computer Science & IT (With Basics & AI Fundamentals) without Books",
+        "language": "Hinglish",
+        "price": "58000",
+        "discount": "48",
+        "total": "30000",
+        "description": "Computer Science, IT | Started on 1st Jun’26"
+      },
+      {
+        "title": "NIRMAAN GATE 2029 - Electrical (With Basics & AI Fundamentals)",
+        "language": "Hinglish",
+        "price": "65247",
+        "discount": "51",
+        "total": "32000",
+        "description": "Exam Target | Started on 1st Jun’26"
+      }
+    ],
+    "NEET - Class 11": [
+      {
+        "title": "Arjuna NEET 2027",
+        "language": "Hinglish",
+        "price": "6000",
+        "discount": "17",
+        "total": "4999",
+        "description": "NEET 2027 | Started on 13th Apr’26"
+      },
+      {
+        "title": "Arjuna NEET 2.0 2027",
+        "language": "Hinglish",
+        "price": "5500",
+        "discount": "11",
+        "total": "4900",
+        "description": "NEET 2028 | Started on 1st Jun’26"
+      },
+      {
+        "title": "Vidyapeeth 11 NEET (Target 2028)",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "Batch starting in June | Upto 40% off"
+      },
+      {
+        "title": "UDAY 2.0 2027 (Class 11th)",
+        "language": "Hinglish",
+        "price": "4500",
+        "discount": "22",
+        "total": "3500",
+        "description": "School Preparation | Started on 1st Jul’26"
+      },
+      {
+        "title": "Arjuna Power Batch NEET Target 2028 3.1 (N1131AB26)",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "NEET 2028 | Started on 8th Jun’26"
+      },
+      {
+        "title": "UDAY 2027 (Class 11th)",
+        "language": "Hinglish",
+        "price": "4800",
+        "discount": "27",
+        "total": "3500",
+        "description": "School Preparation | Started on 6th May’26"
+      },
+      {
+        "title": "Arjuna NEET 2027 + Lakshya NEET 2028",
+        "language": "Hinglish",
+        "price": "12400",
+        "discount": "29",
+        "total": "8800",
+        "description": "NEET 2027 | Started on 13th Apr’26"
+      },
+      {
+        "title": "Lakshya NEET 2027",
+        "language": "Hinglish",
+        "price": "6000",
+        "discount": "17",
+        "total": "4999",
+        "description": "NEET 2027 | Bridge course started on 26 Mar'26 | Syllabus starts on 6 Apr'26"
+      },
+      {
+        "title": "Arjuna NEET in English 2027",
+        "language": "English",
+        "price": "6300",
+        "discount": "33",
+        "total": "4200",
+        "description": "NEET 2028 | Started on 25th May’26"
+      },
+      {
+        "title": "Arjuna MHT-CET 2027",
+        "language": "Bilingual",
+        "price": "6000",
+        "discount": "23",
+        "total": "4600",
+        "description": "MHTCET 2027 | Started on 4th Jun’26"
+      },
+      {
+        "title": "Arjuna NEET 2027 + Uday 2027",
+        "language": "Hinglish",
+        "price": "10800",
+        "discount": "31",
+        "total": "7500",
+        "description": "NEET 2027 | Started on 13th Apr’26"
+      },
+      {
+        "title": "Arjuna NEET Gujarati 2027",
+        "language": "Gujrati",
+        "price": "7000",
+        "discount": "21",
+        "total": "5500",
+        "description": "NEET 2028 | Started on 18th May’26"
+      },
+      {
+        "title": "Arjuna NEET Gujarati Pro + Tab 2027",
+        "language": "Gujrati",
+        "price": "28000",
+        "discount": "11",
+        "total": "25000",
+        "description": "NEET 2027 | Started on 18th May’26"
+      },
+      {
+        "title": "Arjuna KCET 2027",
+        "language": "Kannada",
+        "price": "6500",
+        "discount": "31",
+        "total": "4499",
+        "description": "KCET 2027 | Started on 25th May’26"
+      },
+      {
+        "title": "Arjuna Power Batch NEET Target 2028 (English) (N1111EE26)",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "NEET 2028 | Started on 26th Mar’26"
+      },
+      {
+        "title": "Arjuna Bangla (WBJEE + Biology) 2027",
+        "language": "Bangla",
+        "price": "6000",
+        "discount": "23",
+        "total": "4600",
+        "description": "WBJEE 2027 | Started on 27th Apr’26"
+      },
+      {
+        "title": "Arjuna NEET hindi 2027",
+        "language": "Hindi",
+        "price": "5500",
+        "discount": "36",
+        "total": "3499",
+        "description": "NEET 2027 | Started on 29th Apr’26"
+      },
+      {
+        "title": "Pathshala 11th NEET (Target 2028)",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "Batch starting in June | Upto 40% off"
+      },
+      {
+        "title": "PARISHRAM 2027 (Class 12th)",
+        "language": "Hinglish",
+        "price": "4800",
+        "discount": "27",
+        "total": "3500",
+        "description": "Boards 2027 | Started on 23rd Apr’26"
+      },
+      {
+        "title": "Lakshya MHT-CET 0.0 2027",
+        "language": "Bilingual",
+        "price": "6000",
+        "discount": "23",
+        "total": "4600",
+        "description": "MHTCET 2027 | Started on 19th Feb’26"
+      }
+    ],
+    "NEET - Class 12": [
+      {
+        "title": "Yakeen 2.0 2027",
+        "language": "Hinglish",
+        "price": "6000",
+        "discount": "18",
+        "total": "4900",
+        "description": "NEET 2027 | Free Yakeen NEET 2.0 2026 & previous year versions"
+      },
+      {
+        "title": "Lakshya NEET 2.0 2027",
+        "language": "Hinglish",
+        "price": "5500",
+        "discount": "11",
+        "total": "4900",
+        "description": "NEET 2027 | Started on 15th Jun’26"
+      },
+      {
+        "title": "Vidyapeeth 12th NEET (Target 2027)",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "Batch starting in June | Upto 40% off"
+      },
+      {
+        "title": "Lakshya NEET Hindi 2027",
+        "language": "Hindi",
+        "price": "5500",
+        "discount": "36",
+        "total": "3499",
+        "description": "NEET 2027 | Started on 13th Apr’26"
+      },
+      {
+        "title": "Lakshya Power Batch NEET Target 2027 3.1 (N1231EB26)",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "NEET 2027 | Started on 25th May’26"
+      },
+      {
+        "title": "Lakshya NEET 2027",
+        "language": "Hinglish",
+        "price": "6000",
+        "discount": "17",
+        "total": "4999",
+        "description": "NEET 2027 | Bridge course started on 26 Mar'26 | Syllabus starts on 6 Apr'26"
+      },
+      {
+        "title": "Yakeen Neet 2.0 2027 Infinity Pro",
+        "language": "Hinglish",
+        "price": "34175",
+        "discount": "60",
+        "total": "13500",
+        "description": "NEET 2027 | Started on 29th Jun’26"
+      },
+      {
+        "title": "Lakshya NEET Gujarati 2027",
+        "language": "Gujrati",
+        "price": "7000",
+        "discount": "21",
+        "total": "5500",
+        "description": "NEET 2027 | Started on 27th Apr’26"
+      },
+      {
+        "title": "Lakshya NEET in English 2027",
+        "language": "English",
+        "price": "6300",
+        "discount": "33",
+        "total": "4200",
+        "description": "NEET 2027 | Started on 20th Apr’26"
+      },
+      {
+        "title": "PARISHRAM 2027 (Class 12th)",
+        "language": "Hinglish",
+        "price": "4800",
+        "discount": "27",
+        "total": "3500",
+        "description": "Boards 2027 | Started on 23rd Apr’26"
+      },
+      {
+        "title": "MISSION 100 NEET 2026",
+        "language": "Hinglish",
+        "price": "3000",
+        "discount": "83",
+        "total": "499",
+        "description": "NEET 2026 | Started on 5th Jan’26"
+      },
+      {
+        "title": "Lakshya MHT-CET 2027",
+        "language": "Bilingual",
+        "price": "6000",
+        "discount": "23",
+        "total": "4600",
+        "description": "MHTCET 2027 | Started on 27th Apr’26"
+      },
+      {
+        "title": "LAKSHYA NEET 2027 + PARISHRAM 2027",
+        "language": "Hinglish",
+        "price": "11100",
+        "discount": "32",
+        "total": "7500",
+        "description": "NEET 2027 | Started on 26th Mar’26"
+      },
+      {
+        "title": "Lakshya KCET 2027",
+        "language": "Kannada",
+        "price": "6500",
+        "discount": "23",
+        "total": "4999",
+        "description": "KCET 2027 | Started on 13th Apr’26"
+      },
+      {
+        "title": "Lakshya NEET Gujarati Pro +Tab 2027",
+        "language": "Gujrati",
+        "price": "28000",
+        "discount": "11",
+        "total": "25000",
+        "description": "NEET 2027 | Started on 27th Apr’26"
+      },
+      {
+        "title": "Lakshya Power Batch NEET Target 2027 (English) (N1211EE26)",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "NEET 2027 | Started on 25th Mar’26"
+      },
+      {
+        "title": "Lakshya Bangla (WBJEE + Biology) 2027",
+        "language": "Bangla",
+        "price": "6000",
+        "discount": "23",
+        "total": "4600",
+        "description": "WBJEE 2027 | Started on 13th Apr’26"
+      },
+      {
+        "title": "Pathshala 12th NEET (Target 2027)",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "Batch starting in June | Upto 40% off"
+      },
+      {
+        "title": "Lakshya MHT-CET 0.0 2027",
+        "language": "Bilingual",
+        "price": "6000",
+        "discount": "23",
+        "total": "4600",
+        "description": "MHTCET 2027 | Started on 19th Feb’26"
+      },
+      {
+        "title": "Vidyapeeth Residential Program 12 NEET",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "Batch starting in June | Upto 40% off"
+      }
+    ],
+    "UPSC": [
+      {
+        "title": "UPSC PRARAMBH 2029",
+        "language": "Hinglish",
+        "price": "48999",
+        "discount": "33",
+        "total": "32999",
+        "description": "UPSC_2029 | Started on 22nd Jun’26"
+      },
+      {
+        "title": "Sankalp 2.0 Hinglish 2028",
+        "language": "Hinglish",
+        "price": "21999",
+        "discount": "36",
+        "total": "13999",
+        "description": "UPSC 2028 | Started on 29th Jun’26"
+      },
+      {
+        "title": "Prahar 3.0 Hinglish 2027",
+        "language": "Hinglish",
+        "price": "18999",
+        "discount": "37",
+        "total": "11999",
+        "description": "UPSC 2027 | Started on 18th Jun’26"
+      },
+      {
+        "title": "UPSC Prarambh 2029 - हिन्दी",
+        "language": "Hindi",
+        "price": "48999",
+        "discount": "33",
+        "total": "32999",
+        "description": "UPSC_2029 | Started on 22nd Jun’26"
+      },
+      {
+        "title": "UPSC PRARAMBH 2029 - English",
+        "language": "English",
+        "price": "48999",
+        "discount": "33",
+        "total": "32999",
+        "description": "UPSC_2029 | Started on 22nd Jun’26"
+      },
+      {
+        "title": "Pinnacle 2.0 2028 (English)",
+        "language": "English",
+        "price": "21999",
+        "discount": "36",
+        "total": "13999",
+        "description": "UPSC 2028 | Started on 29th Jun’26"
+      },
+      {
+        "title": "Prahar 3.0 Hindi 2027",
+        "language": "Hindi",
+        "price": "18999",
+        "discount": "37",
+        "total": "11999",
+        "description": "UPSC 2027 | Started on 18th Jun’26"
+      },
+      {
+        "title": "Sankalp 2.0 Hindi 2028",
+        "language": "Hindi",
+        "price": "21999",
+        "discount": "36",
+        "total": "13999",
+        "description": "UPSC 2028 | Started on 29th Jun’26"
+      },
+      {
+        "title": "Titan 3.0 2027 (English)",
+        "language": "English",
+        "price": "18999",
+        "discount": "37",
+        "total": "11999",
+        "description": "UPSC 2027 | Started on 18th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - Sociology (Hinglish)",
+        "language": "Hinglish",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - PSIR (Hinglish)",
+        "language": "Hinglish",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - Anthropology (Hinglish)",
+        "language": "Hinglish",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - Mathematics (Hinglish)",
+        "language": "Hinglish",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - Pub. AD. (Hinglish)",
+        "language": "Hinglish",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - History (Hinglish)",
+        "language": "Hinglish",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - Geography (Hinglish)",
+        "language": "Hinglish",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - Sociology (हिन्दी)",
+        "language": "Hindi",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - PSIR (हिन्दी)",
+        "language": "Hindi",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - History (हिन्दी)",
+        "language": "Hindi",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - Hindi Literature (हिन्दी)",
+        "language": "Hindi",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      }
+    ],
+    "Govt. Exams - SSC": [
+      {
+        "title": "Surya 3.0 SSC CGL Target 2026",
+        "language": "Hinglish",
+        "price": "1699",
+        "discount": "41",
+        "total": "999",
+        "description": "SSC CGL | Starts on 6th Jul’26"
+      },
+      {
+        "title": "SSC CGL Mahapack",
+        "language": "Hinglish",
+        "price": "3499",
+        "discount": "37",
+        "total": "2199",
+        "description": "SSC CGL | Access to SSC CGL Courses | 9, 12 & 24 Month Plans Available"
+      },
+      {
+        "title": "SAFAR 3.0 SSC CGL | CHSL 2027 with English Books",
+        "language": "Hinglish",
+        "price": "3499",
+        "discount": "36",
+        "total": "2249",
+        "description": "SSC | Started on 18th Jun’26"
+      },
+      {
+        "title": "SSC Mahapack Pro",
+        "language": "Hinglish",
+        "price": "6249",
+        "discount": "57",
+        "total": "2699",
+        "description": "SSC Exams | Access to all SSC Courses"
+      },
+      {
+        "title": "Kamyabi 3.0 SSC CHSL Target 2026",
+        "language": "Hinglish",
+        "price": "1999",
+        "discount": "38",
+        "total": "1249",
+        "description": "SSC CHSL | Started on 24th Jun’26"
+      },
+      {
+        "title": "Surya 2.0 SSC CGL Target 2026",
+        "language": "Hinglish",
+        "price": "1699",
+        "discount": "41",
+        "total": "999",
+        "description": "SSC CGL | Started on 17th Jun’26"
+      },
+      {
+        "title": "SSC CHSL Mahapack",
+        "language": "Hinglish",
+        "price": "2999",
+        "discount": "33",
+        "total": "1999",
+        "description": "SSC CHSL | Access to SSC CHSL Courses | 9, 12 & 24 Month Plans Available"
+      },
+      {
+        "title": "SAFAR 3.0 SSC CGL | CHSL 2027 with Hindi Books",
+        "language": "Hinglish",
+        "price": "3499",
+        "discount": "36",
+        "total": "2249",
+        "description": "SSC | Started on 18th Jun’26"
+      },
+      {
+        "title": "Akshay SSC Stenographer 2026",
+        "language": "Hinglish",
+        "price": "2499",
+        "discount": "60",
+        "total": "999",
+        "description": "Steno | Started on 4th May’26"
+      },
+      {
+        "title": "Vishwas SSC GD 2027",
+        "language": "Hinglish",
+        "price": "999",
+        "discount": "40",
+        "total": "599",
+        "description": "SSC GD | Started on 15th Jun’26"
+      },
+      {
+        "title": "Karmath SSC MTS/Havaldar 2026",
+        "language": "Hinglish",
+        "price": "999",
+        "discount": "40",
+        "total": "599",
+        "description": "SSC MTS | Started on 15th Jun’26"
+      },
+      {
+        "title": "Yogdaan SSC CPO Target 2026",
+        "language": "Hinglish",
+        "price": "1999",
+        "discount": "25",
+        "total": "1499",
+        "description": "SSC CPO | Started on 15th Jun’26"
+      },
+      {
+        "title": "SSC & Railway Mahapack Pro",
+        "language": "Hinglish",
+        "price": "11499",
+        "discount": "70",
+        "total": "3499",
+        "description": "Govt Exams | Access to all SSC and Railway Courses"
+      },
+      {
+        "title": "Aagaaz SSC Selection Post Phase XIV",
+        "language": "Hinglish",
+        "price": "2499",
+        "discount": "60",
+        "total": "999",
+        "description": "Selection_Post | Started on 6th May’26"
+      },
+      {
+        "title": "SSC GD MTS Mahapack",
+        "language": "Hinglish",
+        "price": "2499",
+        "discount": "64",
+        "total": "899",
+        "description": "SSC | Access to all NEET courses | 6, 12 & 24 month plans available"
+      },
+      {
+        "title": "SSC MTS/Havaldar 2026 Video Course",
+        "language": "Hinglish",
+        "price": "999",
+        "discount": "50",
+        "total": "499",
+        "description": "SSC MTS | Started on 10th May’26"
+      },
+      {
+        "title": "SSC GD Constable Complete Video Course 2026-27",
+        "language": "Hinglish",
+        "price": "999",
+        "discount": "50",
+        "total": "499",
+        "description": "SSC GD | Started on 10th May’26"
+      },
+      {
+        "title": "Maths Special Recorded Batch (Arithmetic and Advance)",
+        "language": "Hinglish",
+        "price": "1499",
+        "discount": "60",
+        "total": "599",
+        "description": "SSC | Started on 15th Apr’26"
+      },
+      {
+        "title": "English Special Recorded Batch (Grammar + Vocab)",
+        "language": "Hinglish",
+        "price": "1249",
+        "discount": "60",
+        "total": "499",
+        "description": "SSC | Started on 15th Apr’26"
+      },
+      {
+        "title": "Reasoning Special Recorded Batch for All SSC Exams",
+        "language": "Hinglish",
+        "price": "1249",
+        "discount": "60",
+        "total": "499",
+        "description": "SSC | Started on 15th Apr’26"
+      }
+    ],
+    "Govt. Exams - Defence": [
+      {
+        "title": "Mission NDA 100",
+        "language": "Hinglish",
+        "price": "3999",
+        "discount": "38",
+        "total": "2499",
+        "description": "Defence | Started on 1st Jun’26"
+      },
+      {
+        "title": "NDA (II) Foundation Offline 2027",
+        "language": "Hinglish",
+        "price": "10000",
+        "discount": "0",
+        "total": "5000",
+        "description": "Core Academics Mastery | OLQs & Personality Foundation"
+      },
+      {
+        "title": "Mission CDS 100",
+        "language": "Hinglish",
+        "price": "4499",
+        "discount": "44",
+        "total": "2499",
+        "description": "Defence | Started on 1st Jun’26"
+      },
+      {
+        "title": "Mission CDS OTA 100",
+        "language": "Hinglish",
+        "price": "3499",
+        "discount": "37",
+        "total": "2199",
+        "description": "Defence | Started on 1st Jun’26"
+      },
+      {
+        "title": "UDAY NDA FOUNDATION 2027",
+        "language": "Hinglish",
+        "price": "6999",
+        "discount": "20",
+        "total": "5599",
+        "description": "Defence | Started on 6th Apr’26"
+      },
+      {
+        "title": "Super 30 NDA (II) Offline 2026",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "10000",
+        "description": "Live Interactive Smart Classes"
+      },
+      {
+        "title": "CAPF RAKSHAK 2027",
+        "language": "Hinglish",
+        "price": "9999",
+        "discount": "20",
+        "total": "7999",
+        "description": "Defence | Started on 30th Jun’26"
+      },
+      {
+        "title": "NDA (II) Shaurya 2.0 2026",
+        "language": "Hinglish",
+        "price": "4299",
+        "discount": "23",
+        "total": "3299",
+        "description": "Defence | Started on 27th Apr’26"
+      },
+      {
+        "title": "CDS (II) VIRAAT 2.0 2026",
+        "language": "Hinglish",
+        "price": "4799",
+        "discount": "21",
+        "total": "3799",
+        "description": "Defence | Started on 27th Apr’26"
+      },
+      {
+        "title": "NDA (II) Shaurya Offline 2026",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "Core Academics Mastery | OLQs & Personality Foundation"
+      },
+      {
+        "title": "CDS (II) OTA VIRAAT 2.0 2026",
+        "language": "Hinglish",
+        "price": "3799",
+        "discount": "26",
+        "total": "2799",
+        "description": "Defence | Started on 27th Apr’26"
+      },
+      {
+        "title": "UDAY NDA Foundation 2.0 2027",
+        "language": "Hinglish",
+        "price": "6999",
+        "discount": "24",
+        "total": "5299",
+        "description": "Defence | Starts on 10th Aug’26"
+      },
+      {
+        "title": "CDS Foundation 2027",
+        "language": "Hinglish",
+        "price": "7599",
+        "discount": "13",
+        "total": "6599",
+        "description": "Defence | Started on 30th Mar’26"
+      },
+      {
+        "title": "CDS (II) Viraat Offline 2026",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "Exam Target | Core Academics Mastery | OLQs & Personality Foundation"
+      },
+      {
+        "title": "AFCAT (II) Garud 2.0 2026",
+        "language": "Hinglish",
+        "price": "2999",
+        "discount": "33",
+        "total": "1999",
+        "description": "Defence | Started on 11th May’26"
+      },
+      {
+        "title": "Spoken English By Neha Ma'am",
+        "language": "English",
+        "price": "999",
+        "discount": "50",
+        "total": "499",
+        "description": "Exam Target | Started on 2nd Feb’26"
+      },
+      {
+        "title": "Territorial Army Yakeen 2026",
+        "language": "Hinglish",
+        "price": "1999",
+        "discount": "45",
+        "total": "1099",
+        "description": "Defence | Started on 28th Apr’26"
+      },
+      {
+        "title": "NDA (I) 12th Foundation Offline 2027",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "Core Academics Mastery | OLQs & Personality Foundation"
+      },
+      {
+        "title": "Paramveer Mahapack 2027",
+        "language": "Hinglish",
+        "price": "3499",
+        "discount": "34",
+        "total": "2299",
+        "description": "Defence | Access to Defence Batches"
+      },
+      {
+        "title": "Airforce Vayu Combo 2027",
+        "language": "Hinglish",
+        "price": "1499",
+        "discount": "33",
+        "total": "999",
+        "description": "Defence | Started on 15th Jun’26"
+      }
+    ],
+    "Engineering & Medical Exams ( College & Job ) - Polytechnic": [],
+    "Engineering & Medical Exams ( College & Job ) - BSC Nursing Entrance": [],
+    "College Entrance Exams ( UG & PG ) - IPMAT": [
+      {
+        "title": "IPMAT MASTERQUEST 2.0 2027",
+        "language": "Hinglish",
+        "price": "8180",
+        "discount": "45",
+        "total": "4499",
+        "description": "IPMAT 2027 | Starts on 6th Jul’26"
+      },
+      {
+        "title": "IPMAT MASTERQUEST 2027",
+        "language": "Hinglish",
+        "price": "9999",
+        "discount": "55",
+        "total": "4499",
+        "description": "IPMAT 2027 | Started on 20th Apr’26"
+      },
+      {
+        "title": "IPMAT PRO 2027",
+        "language": "Hinglish",
+        "price": "14999",
+        "discount": "50",
+        "total": "7499",
+        "description": "IPMAT 2027 | Started on 20th Apr’26"
+      },
+      {
+        "title": "Superclass - IPMAT Masterquest 2027",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "4999",
+        "description": "Experienced Faculty | Tech-enabled Offline Classroom Learning"
+      }
+    ],
+    "College Entrance Exams ( UG & PG ) - Design - NID, UCEED, NIFT": [
+      {
+        "title": "Design Power Batch 2027",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "4999",
+        "description": "NIFT,_NID_&_UCEED | Started on 11th May’26"
+      },
+      {
+        "title": "DESIGN PRO 2027",
+        "language": "Hinglish",
+        "price": "26999",
+        "discount": "50",
+        "total": "13499",
+        "description": "Design | Started on 5th Jan’26"
+      },
+      {
+        "title": "Design Iconic 3.0 2027",
+        "language": "Hinglish",
+        "price": "16999",
+        "discount": "53",
+        "total": "7999",
+        "description": "Design | Started on 18th May’26"
+      },
+      {
+        "title": "Design Iconic 2.0 2027",
+        "language": "Hinglish",
+        "price": "18999",
+        "discount": "53",
+        "total": "8999",
+        "description": "Design | Started on 9th Mar’26"
+      },
+      {
+        "title": "DESIGN ICONIC 2027",
+        "language": "Hinglish",
+        "price": "20999",
+        "discount": "52",
+        "total": "9999",
+        "description": "Design | Started on 5th Jan’26"
+      }
+    ],
+    "College Entrance Exams ( UG & PG ) - Architecture - NATA, JEE Paper 2": [
+      {
+        "title": "Architecture Pro 2027",
+        "language": "Hinglish",
+        "price": "24999",
+        "discount": "56",
+        "total": "10999",
+        "description": "Architecture | Started on 6th Apr’26"
+      },
+      {
+        "title": "Architecture Creators 2.0 2027",
+        "language": "Hinglish",
+        "price": "13999",
+        "discount": "50",
+        "total": "6999",
+        "description": "Architecture | Started on 8th Jun’26"
+      },
+      {
+        "title": "Architecture Creators 2027",
+        "language": "Hinglish",
+        "price": "19999",
+        "discount": "60",
+        "total": "7999",
+        "description": "Architecture | Started on 6th Apr’26"
+      }
+    ],
+    "College Entrance Exams ( UG & PG ) - CAT": [
+      {
+        "title": "MBA IGNITE 2026 (CAT + OMETs) (ENGLISH)",
+        "language": "English",
+        "price": "14999",
+        "discount": "50",
+        "total": "7499",
+        "description": "CAT+OMETS | Starts on 6th Jul’26"
+      },
+      {
+        "title": "MBA IGNITE 2026 (CAT + OMETs)",
+        "language": "Hinglish",
+        "price": "14999",
+        "discount": "50",
+        "total": "7499",
+        "description": "CAT+OMETS | Started on 8th Jun’26"
+      },
+      {
+        "title": "MBA ELITE WEEKEND 2026 (CAT + OMETs)",
+        "language": "Hinglish",
+        "price": "14999",
+        "discount": "47",
+        "total": "7999",
+        "description": "CAT+OMETS | Started on 9th May’26"
+      },
+      {
+        "title": "MBA PIONEER 2026 (CAT + OMETs) (ENGLISH)",
+        "language": "English",
+        "price": "14999",
+        "discount": "47",
+        "total": "7999",
+        "description": "CAT+OMETS | Started on 6th Apr’26"
+      },
+      {
+        "title": "MBA Pro 2026 (CAT + OMETs)",
+        "language": "Hinglish",
+        "price": "27999",
+        "discount": "57",
+        "total": "11999",
+        "description": "CAT+OMETS | Started on 13th Oct’25"
+      },
+      {
+        "title": "MBA ELITE 2026 (CAT + OMETs)",
+        "language": "Hinglish",
+        "price": "14999",
+        "discount": "47",
+        "total": "7999",
+        "description": "CAT+OMETS | Started on 16th Feb’26"
+      },
+      {
+        "title": "MBA PIONEER 2026 (CAT + OMETs)",
+        "language": "Hinglish",
+        "price": "15999",
+        "discount": "50",
+        "total": "7999",
+        "description": "CAT+OMETS | Started on 15th Dec’25"
+      },
+      {
+        "title": "MBA Core 2026 (Foundation + CAT & OMETs)",
+        "language": "Hinglish",
+        "price": "15999",
+        "discount": "44",
+        "total": "8999",
+        "description": "CAT+OMETS | Started on 13th Oct’25"
+      }
+    ],
+    "All Government Job Exams - SSC": [
+      {
+        "title": "Surya 3.0 SSC CGL Target 2026",
+        "language": "Hinglish",
+        "price": "1699",
+        "discount": "41",
+        "total": "999",
+        "description": "SSC CGL | Starts on 6th Jul’26"
+      },
+      {
+        "title": "SSC CGL Mahapack",
+        "language": "Hinglish",
+        "price": "3499",
+        "discount": "37",
+        "total": "2199",
+        "description": "SSC CGL | Access to SSC CGL Courses | 9, 12 & 24 Month Plans Available"
+      },
+      {
+        "title": "SAFAR 3.0 SSC CGL | CHSL 2027 with English Books",
+        "language": "Hinglish",
+        "price": "3499",
+        "discount": "36",
+        "total": "2249",
+        "description": "SSC | Started on 18th Jun’26"
+      },
+      {
+        "title": "SSC Mahapack Pro",
+        "language": "Hinglish",
+        "price": "6249",
+        "discount": "57",
+        "total": "2699",
+        "description": "SSC Exams | Access to all SSC Courses"
+      },
+      {
+        "title": "Kamyabi 3.0 SSC CHSL Target 2026",
+        "language": "Hinglish",
+        "price": "1999",
+        "discount": "38",
+        "total": "1249",
+        "description": "SSC CHSL | Started on 24th Jun’26"
+      },
+      {
+        "title": "Surya 2.0 SSC CGL Target 2026",
+        "language": "Hinglish",
+        "price": "1699",
+        "discount": "41",
+        "total": "999",
+        "description": "SSC CGL | Started on 17th Jun’26"
+      },
+      {
+        "title": "SSC CHSL Mahapack",
+        "language": "Hinglish",
+        "price": "2999",
+        "discount": "33",
+        "total": "1999",
+        "description": "SSC CHSL | Access to SSC CHSL Courses | 9, 12 & 24 Month Plans Available"
+      },
+      {
+        "title": "SAFAR 3.0 SSC CGL | CHSL 2027 with Hindi Books",
+        "language": "Hinglish",
+        "price": "3499",
+        "discount": "36",
+        "total": "2249",
+        "description": "SSC | Started on 18th Jun’26"
+      },
+      {
+        "title": "Akshay SSC Stenographer 2026",
+        "language": "Hinglish",
+        "price": "2499",
+        "discount": "60",
+        "total": "999",
+        "description": "Steno | Started on 4th May’26"
+      },
+      {
+        "title": "Vishwas SSC GD 2027",
+        "language": "Hinglish",
+        "price": "999",
+        "discount": "40",
+        "total": "599",
+        "description": "SSC GD | Started on 15th Jun’26"
+      },
+      {
+        "title": "Karmath SSC MTS/Havaldar 2026",
+        "language": "Hinglish",
+        "price": "999",
+        "discount": "40",
+        "total": "599",
+        "description": "SSC MTS | Started on 15th Jun’26"
+      },
+      {
+        "title": "Yogdaan SSC CPO Target 2026",
+        "language": "Hinglish",
+        "price": "1999",
+        "discount": "25",
+        "total": "1499",
+        "description": "SSC CPO | Started on 15th Jun’26"
+      },
+      {
+        "title": "SSC & Railway Mahapack Pro",
+        "language": "Hinglish",
+        "price": "11499",
+        "discount": "70",
+        "total": "3499",
+        "description": "Govt Exams | Access to all SSC and Railway Courses"
+      },
+      {
+        "title": "Aagaaz SSC Selection Post Phase XIV",
+        "language": "Hinglish",
+        "price": "2499",
+        "discount": "60",
+        "total": "999",
+        "description": "Selection_Post | Started on 6th May’26"
+      },
+      {
+        "title": "SSC GD MTS Mahapack",
+        "language": "Hinglish",
+        "price": "2499",
+        "discount": "64",
+        "total": "899",
+        "description": "SSC | Access to all NEET courses | 6, 12 & 24 month plans available"
+      },
+      {
+        "title": "SSC MTS/Havaldar 2026 Video Course",
+        "language": "Hinglish",
+        "price": "999",
+        "discount": "50",
+        "total": "499",
+        "description": "SSC MTS | Started on 10th May’26"
+      },
+      {
+        "title": "SSC GD Constable Complete Video Course 2026-27",
+        "language": "Hinglish",
+        "price": "999",
+        "discount": "50",
+        "total": "499",
+        "description": "SSC GD | Started on 10th May’26"
+      },
+      {
+        "title": "Maths Special Recorded Batch (Arithmetic and Advance)",
+        "language": "Hinglish",
+        "price": "1499",
+        "discount": "60",
+        "total": "599",
+        "description": "SSC | Started on 15th Apr’26"
+      },
+      {
+        "title": "English Special Recorded Batch (Grammar + Vocab)",
+        "language": "Hinglish",
+        "price": "1249",
+        "discount": "60",
+        "total": "499",
+        "description": "SSC | Started on 15th Apr’26"
+      },
+      {
+        "title": "Reasoning Special Recorded Batch for All SSC Exams",
+        "language": "Hinglish",
+        "price": "1249",
+        "discount": "60",
+        "total": "499",
+        "description": "SSC | Started on 15th Apr’26"
+      }
+    ],
+    "All Government Job Exams - Defence": [
+      {
+        "title": "Mission NDA 100",
+        "language": "Hinglish",
+        "price": "3999",
+        "discount": "38",
+        "total": "2499",
+        "description": "Defence | Started on 1st Jun’26"
+      },
+      {
+        "title": "NDA (II) Foundation Offline 2027",
+        "language": "Hinglish",
+        "price": "10000",
+        "discount": "0",
+        "total": "5000",
+        "description": "Core Academics Mastery | OLQs & Personality Foundation"
+      },
+      {
+        "title": "Mission CDS 100",
+        "language": "Hinglish",
+        "price": "4499",
+        "discount": "44",
+        "total": "2499",
+        "description": "Defence | Started on 1st Jun’26"
+      },
+      {
+        "title": "Mission CDS OTA 100",
+        "language": "Hinglish",
+        "price": "3499",
+        "discount": "37",
+        "total": "2199",
+        "description": "Defence | Started on 1st Jun’26"
+      },
+      {
+        "title": "UDAY NDA FOUNDATION 2027",
+        "language": "Hinglish",
+        "price": "6999",
+        "discount": "20",
+        "total": "5599",
+        "description": "Defence | Started on 6th Apr’26"
+      },
+      {
+        "title": "Super 30 NDA (II) Offline 2026",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "10000",
+        "description": "Live Interactive Smart Classes"
+      },
+      {
+        "title": "CAPF RAKSHAK 2027",
+        "language": "Hinglish",
+        "price": "9999",
+        "discount": "20",
+        "total": "7999",
+        "description": "Defence | Started on 30th Jun’26"
+      },
+      {
+        "title": "NDA (II) Shaurya 2.0 2026",
+        "language": "Hinglish",
+        "price": "4299",
+        "discount": "23",
+        "total": "3299",
+        "description": "Defence | Started on 27th Apr’26"
+      },
+      {
+        "title": "CDS (II) VIRAAT 2.0 2026",
+        "language": "Hinglish",
+        "price": "4799",
+        "discount": "21",
+        "total": "3799",
+        "description": "Defence | Started on 27th Apr’26"
+      },
+      {
+        "title": "NDA (II) Shaurya Offline 2026",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "Core Academics Mastery | OLQs & Personality Foundation"
+      },
+      {
+        "title": "CDS (II) OTA VIRAAT 2.0 2026",
+        "language": "Hinglish",
+        "price": "3799",
+        "discount": "26",
+        "total": "2799",
+        "description": "Defence | Started on 27th Apr’26"
+      },
+      {
+        "title": "UDAY NDA Foundation 2.0 2027",
+        "language": "Hinglish",
+        "price": "6999",
+        "discount": "24",
+        "total": "5299",
+        "description": "Defence | Starts on 10th Aug’26"
+      },
+      {
+        "title": "CDS Foundation 2027",
+        "language": "Hinglish",
+        "price": "7599",
+        "discount": "13",
+        "total": "6599",
+        "description": "Defence | Started on 30th Mar’26"
+      },
+      {
+        "title": "CDS (II) Viraat Offline 2026",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "Exam Target | Core Academics Mastery | OLQs & Personality Foundation"
+      },
+      {
+        "title": "AFCAT (II) Garud 2.0 2026",
+        "language": "Hinglish",
+        "price": "2999",
+        "discount": "33",
+        "total": "1999",
+        "description": "Defence | Started on 11th May’26"
+      },
+      {
+        "title": "Spoken English By Neha Ma'am",
+        "language": "English",
+        "price": "999",
+        "discount": "50",
+        "total": "499",
+        "description": "Exam Target | Started on 2nd Feb’26"
+      },
+      {
+        "title": "Territorial Army Yakeen 2026",
+        "language": "Hinglish",
+        "price": "1999",
+        "discount": "45",
+        "total": "1099",
+        "description": "Defence | Started on 28th Apr’26"
+      },
+      {
+        "title": "NDA (I) 12th Foundation Offline 2027",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "5000",
+        "description": "Core Academics Mastery | OLQs & Personality Foundation"
+      },
+      {
+        "title": "Paramveer Mahapack 2027",
+        "language": "Hinglish",
+        "price": "3499",
+        "discount": "34",
+        "total": "2299",
+        "description": "Defence | Access to Defence Batches"
+      },
+      {
+        "title": "Airforce Vayu Combo 2027",
+        "language": "Hinglish",
+        "price": "1499",
+        "discount": "33",
+        "total": "999",
+        "description": "Defence | Started on 15th Jun’26"
+      }
+    ],
+    "All Government Job Exams - UPSC": [
+      {
+        "title": "UPSC PRARAMBH 2029",
+        "language": "Hinglish",
+        "price": "48999",
+        "discount": "33",
+        "total": "32999",
+        "description": "UPSC_2029 | Started on 22nd Jun’26"
+      },
+      {
+        "title": "Sankalp 2.0 Hinglish 2028",
+        "language": "Hinglish",
+        "price": "21999",
+        "discount": "36",
+        "total": "13999",
+        "description": "UPSC 2028 | Started on 29th Jun’26"
+      },
+      {
+        "title": "Prahar 3.0 Hinglish 2027",
+        "language": "Hinglish",
+        "price": "18999",
+        "discount": "37",
+        "total": "11999",
+        "description": "UPSC 2027 | Started on 18th Jun’26"
+      },
+      {
+        "title": "UPSC Prarambh 2029 - हिन्दी",
+        "language": "Hindi",
+        "price": "48999",
+        "discount": "33",
+        "total": "32999",
+        "description": "UPSC_2029 | Started on 22nd Jun’26"
+      },
+      {
+        "title": "UPSC PRARAMBH 2029 - English",
+        "language": "English",
+        "price": "48999",
+        "discount": "33",
+        "total": "32999",
+        "description": "UPSC_2029 | Started on 22nd Jun’26"
+      },
+      {
+        "title": "Pinnacle 2.0 2028 (English)",
+        "language": "English",
+        "price": "21999",
+        "discount": "36",
+        "total": "13999",
+        "description": "UPSC 2028 | Started on 29th Jun’26"
+      },
+      {
+        "title": "Prahar 3.0 Hindi 2027",
+        "language": "Hindi",
+        "price": "18999",
+        "discount": "37",
+        "total": "11999",
+        "description": "UPSC 2027 | Started on 18th Jun’26"
+      },
+      {
+        "title": "Sankalp 2.0 Hindi 2028",
+        "language": "Hindi",
+        "price": "21999",
+        "discount": "36",
+        "total": "13999",
+        "description": "UPSC 2028 | Started on 29th Jun’26"
+      },
+      {
+        "title": "Titan 3.0 2027 (English)",
+        "language": "English",
+        "price": "18999",
+        "discount": "37",
+        "total": "11999",
+        "description": "UPSC 2027 | Started on 18th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - Sociology (Hinglish)",
+        "language": "Hinglish",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - PSIR (Hinglish)",
+        "language": "Hinglish",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - Anthropology (Hinglish)",
+        "language": "Hinglish",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - Mathematics (Hinglish)",
+        "language": "Hinglish",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - Pub. AD. (Hinglish)",
+        "language": "Hinglish",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - History (Hinglish)",
+        "language": "Hinglish",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - Geography (Hinglish)",
+        "language": "Hinglish",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - Sociology (हिन्दी)",
+        "language": "Hindi",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - PSIR (हिन्दी)",
+        "language": "Hindi",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - History (हिन्दी)",
+        "language": "Hindi",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      },
+      {
+        "title": "UPSC Optional 2027 - Hindi Literature (हिन्दी)",
+        "language": "Hindi",
+        "price": "19999",
+        "discount": "35",
+        "total": "12999",
+        "description": "UPSC 2027 | Started on 25th Jun’26"
+      }
+    ],
+    "All Government Job Exams - Agriculture": [
+      {
+        "title": "Agriculture Mahapack",
+        "language": "Hinglish",
+        "price": "9999",
+        "discount": "55",
+        "total": "4499",
+        "description": "Agriculture Exams | Access to all Agriculture Courses"
+      },
+      {
+        "title": "IBPS AFO 2026 Prelims Crash Course",
+        "language": "Hinglish",
+        "price": "1599",
+        "discount": "37",
+        "total": "999",
+        "description": "IBPS AFO | Started on 22nd Jun’26"
+      },
+      {
+        "title": "ASRB NET 2026 Agronomy fast track Batch",
+        "language": "Hinglish",
+        "price": "3999",
+        "discount": "37",
+        "total": "2499",
+        "description": "ASRB NET | Started on 1st Jul’26"
+      },
+      {
+        "title": "CUET PG Agriculture Science Batch 2027",
+        "language": "Hinglish",
+        "price": "4999",
+        "discount": "40",
+        "total": "2999",
+        "description": "CUET_PG | Started on 1st Jul’26"
+      },
+      {
+        "title": "IBPS AFO 2026 Target Batch",
+        "language": "Hinglish",
+        "price": "5998",
+        "discount": "50",
+        "total": "2999",
+        "description": "Agriculture Exams | Started on 4th May’26"
+      },
+      {
+        "title": "UPSSSC AGTA 2026",
+        "language": "Hinglish",
+        "price": "2998",
+        "discount": "50",
+        "total": "1499",
+        "description": "Agriculture Exams | Started on 10th Apr’26"
+      },
+      {
+        "title": "NABARD Grade A 2026 Batch C",
+        "language": "Hinglish",
+        "price": "6998",
+        "discount": "50",
+        "total": "3499",
+        "description": "Agriculture Exams | Started on 4th May’26"
+      },
+      {
+        "title": "ASRB NET 2026 - Plant Pathology Batch",
+        "language": "Hinglish",
+        "price": "5999",
+        "discount": "50",
+        "total": "2999",
+        "description": "ASRB NET | Started on 2nd Feb’26"
+      },
+      {
+        "title": "B.SC Agriculture course Semester -1",
+        "language": "Hinglish",
+        "price": "1998",
+        "discount": "50",
+        "total": "999",
+        "description": "Agri Semester | Starts on 1st Aug’26"
+      },
+      {
+        "title": "B.SC Agriculture course Semester -3",
+        "language": "Hinglish",
+        "price": "2597",
+        "discount": "49",
+        "total": "1299",
+        "description": "Agri Semester | Starts on 1st Aug’26"
+      },
+      {
+        "title": "B.SC Agriculture course Semester -5",
+        "language": "Hinglish",
+        "price": "2998",
+        "discount": "50",
+        "total": "1499",
+        "description": "Agri Semester | Starts on 1st Aug’26"
+      },
+      {
+        "title": "BIHAR - PLANT PROTECTION ( SUPERVISOR & INSPECTOR 2026)",
+        "language": "Hinglish",
+        "price": "4399",
+        "discount": "50",
+        "total": "2199",
+        "description": "Agriculture Exams | Started on 24th Mar’26"
+      },
+      {
+        "title": "Vidya Foundation Batch For Agriculture Govt. Exams",
+        "language": "Hinglish",
+        "price": "6999",
+        "discount": "50",
+        "total": "3499",
+        "description": "Exam Target | Started on 16th Feb’26"
+      },
+      {
+        "title": "MPESB RAEO/RHEO 2026 Batch",
+        "language": "Hinglish",
+        "price": "4999",
+        "discount": "50",
+        "total": "2499",
+        "description": "Agriculture Exams | Started on 20th Jan’26"
+      },
+      {
+        "title": "MPPSC ADA 2026 Foundation Batch",
+        "language": "Hinglish",
+        "price": "3999",
+        "discount": "50",
+        "total": "1999",
+        "description": "Agriculture Exams | Started on 20th Jan’26"
+      }
+    ],
+    "All Government Job Exams - Judiciary": [
+      {
+        "title": "NAV NEETI 3.0 JUDICIARY FOUNDATION BATCH",
+        "language": "Hinglish",
+        "price": "50000",
+        "discount": "50",
+        "total": "24999",
+        "description": "Exam Target | Started on 15th Jun’26"
+      },
+      {
+        "title": "ABHIYOJAN 3.0 APO/APP/ADPO FOUNDATION BATCH 2026 - 2029",
+        "language": "Hinglish",
+        "price": "20000",
+        "discount": "45",
+        "total": "10998",
+        "description": "Exam Target | Started on 15th Jun’26"
+      },
+      {
+        "title": "RAJASTHAN APO 2026 (Prelims + Mains) Batch",
+        "language": "Hinglish",
+        "price": "13999",
+        "discount": "46",
+        "total": "7499",
+        "description": "Exam Target | Started on 5th Jun’26"
+      },
+      {
+        "title": "PW COMPLETE ADVOCACY PROGRAM",
+        "language": "Hinglish",
+        "price": "29999",
+        "discount": "40",
+        "total": "17999",
+        "description": "Exam Target | Started on 20th Jun’26"
+      },
+      {
+        "title": "TARGET CBI APP + DELHI APP 2026 BATCH",
+        "language": "Hinglish",
+        "price": "5999",
+        "discount": "33",
+        "total": "3999",
+        "description": "Exam Target | Starts on 3rd Jul’26"
+      },
+      {
+        "title": "PW Legal Drafting Certification Program 2026",
+        "language": "Hinglish",
+        "price": "10997",
+        "discount": "45",
+        "total": "5999",
+        "description": "Exam Target | Started on 20th Jun’26"
+      },
+      {
+        "title": "HARYANA ADA MAINS SUCCESS BATCH",
+        "language": "Hinglish",
+        "price": "8999",
+        "discount": "44",
+        "total": "4999",
+        "description": "Exam Target | Starts on 6th Jul’26"
+      },
+      {
+        "title": "Target SBI SO + IBPS SO LAW OFFICER BATCH 2026",
+        "language": "Hinglish",
+        "price": "7999",
+        "discount": "38",
+        "total": "4999",
+        "description": "IBPS_Law_Officer | Starts on 3rd Jul’26"
+      },
+      {
+        "title": "IBPS SO LAW OFFICER 2.0 BATCH 2026",
+        "language": "Hinglish",
+        "price": "4999",
+        "discount": "40",
+        "total": "2999",
+        "description": "Exam Target | Started on 22nd Jun’26"
+      },
+      {
+        "title": "VAKALAT AIBE 22 FOUNDATION BATCH 2026",
+        "language": "Hinglish",
+        "price": "2499",
+        "discount": "40",
+        "total": "1499",
+        "description": "Exam Target | Starts on 6th Jul’26"
+      },
+      {
+        "title": "PW ADVANCED CRIMINAL LITIGATION & LEGAL DRAFTING PROGRAM 2026",
+        "language": "Hinglish",
+        "price": "24999",
+        "discount": "48",
+        "total": "12999",
+        "description": "Exam Target | Started on 20th Jun’26"
+      },
+      {
+        "title": "PUNJAB GK+PUNJABI LANGUAGE RECORDED COURSES",
+        "language": "Punjabi",
+        "price": "2599",
+        "discount": "42",
+        "total": "1499",
+        "description": "CFA | Started on 29th Jun’26"
+      },
+      {
+        "title": "PW ADVANCED CIVIL LITIGATION & LEGAL DRAFTING PROGRAM 2026",
+        "language": "Hinglish",
+        "price": "24999",
+        "discount": "48",
+        "total": "12999",
+        "description": "Exam Target | Started on 20th Jun’26"
+      },
+      {
+        "title": "PROSECUTOR’S HARYANA ADA 2026 PRELIMS BATCH",
+        "language": "Hinglish",
+        "price": "10999",
+        "discount": "73",
+        "total": "2999",
+        "description": "Exam Target | Started on 15th May’26"
+      },
+      {
+        "title": "PROSECUTOR’S PUNJAB ADA 2026 PRELIMS BATCH",
+        "language": "Hinglish",
+        "price": "10999",
+        "discount": "55",
+        "total": "4999",
+        "description": "Exam Target | Started on 15th May’26"
+      },
+      {
+        "title": "PW VAKIL TOOLKIT",
+        "language": "Bilingual",
+        "price": "899",
+        "discount": "44",
+        "total": "499",
+        "description": "Exam Target | Started on 15th Jun’26"
+      },
+      {
+        "title": "RAJASTHAN APO 2026 PRELIMS BATCH",
+        "language": "Hinglish",
+        "price": "8999",
+        "discount": "44",
+        "total": "4999",
+        "description": "Exam Target | Started on 5th Jun’26"
+      },
+      {
+        "title": "IBPS SO LAW OFFICER BATCH 2026",
+        "language": "Hinglish",
+        "price": "9999",
+        "discount": "70",
+        "total": "2999",
+        "description": "Exam Target | Started on 20th Apr’26"
+      },
+      {
+        "title": "BIHAR APO PRELIMS BOOSTER BATCH",
+        "language": "Bilingual",
+        "price": "5999",
+        "discount": "66",
+        "total": "1999",
+        "description": "Exam Target | Started on 13th Apr’26"
+      },
+      {
+        "title": "UP APO MAINS SUCCESS BATCH",
+        "language": "Hinglish",
+        "price": "10999",
+        "discount": "63",
+        "total": "3999",
+        "description": "Exam Target | Started on 6th Apr’26"
+      }
+    ],
+    "All Government Job Exams - Teaching": [
+      {
+        "title": "Teaching Mahapack",
+        "language": "Hinglish",
+        "price": "12999",
+        "discount": "81",
+        "total": "2499",
+        "description": "Teaching Exams | Access to All Teaching Course"
+      },
+      {
+        "title": "CTET PREMIUM INFINITY 2.0 SEP 2026 PAPER 1",
+        "language": "Hinglish",
+        "price": "3499",
+        "discount": "63",
+        "total": "1299",
+        "description": "Teaching Exams | Started on 10th Jun’26"
+      },
+      {
+        "title": "CTET PREMIUM INFINITY 2.0 SEP 2026 PAPER 2 MATH & SCIENCE",
+        "language": "Hinglish",
+        "price": "3999",
+        "discount": "63",
+        "total": "1499",
+        "description": "Teaching Exams | Started on 10th Jun’26"
+      },
+      {
+        "title": "CTET PREMIUM COMBO 3.0 SEP 2026 PAPER 1 & PAPER 2 MATH & SCIENCE",
+        "language": "Hinglish",
+        "price": "3339",
+        "discount": "63",
+        "total": "1249",
+        "description": "CTET | Starts on 9th Jul’26"
+      },
+      {
+        "title": "CTET PREMIUM COMBO 3.0 SEP 2026 PAPER 1 & PAPER 2 SST",
+        "language": "Hinglish",
+        "price": "3339",
+        "discount": "63",
+        "total": "1249",
+        "description": "CTET | Starts on 9th Jul’26"
+      },
+      {
+        "title": "CTET PREMIUM 3.0 SEP 2026 PAPER 1",
+        "language": "Hinglish",
+        "price": "1999",
+        "discount": "63",
+        "total": "749",
+        "description": "CTET | Starts on 9th Jul’26"
+      },
+      {
+        "title": "CTET PREMIUM 3.0 SEP 2026 PAPER 2 MATH & SCIENCE",
+        "language": "Hinglish",
+        "price": "2599",
+        "discount": "63",
+        "total": "949",
+        "description": "CTET | Starts on 9th Jul’26"
+      },
+      {
+        "title": "CTET PREMIUM 3.0 SEP 2026 PAPER 2 SST",
+        "language": "Hinglish",
+        "price": "2599",
+        "discount": "63",
+        "total": "949",
+        "description": "CTET | Starts on 9th Jul’26"
+      },
+      {
+        "title": "CTET PREMIUM INFINITY 3.0 SEP 2026 PAPER 1",
+        "language": "Hinglish",
+        "price": "3499",
+        "discount": "63",
+        "total": "1299",
+        "description": "CTET | Starts on 9th Jul’26"
+      },
+      {
+        "title": "CTET PREMIUM INFINITY 3.0 SEP 2026 PAPER 2 MATH & SCIENCE",
+        "language": "Hinglish",
+        "price": "3999",
+        "discount": "63",
+        "total": "1499",
+        "description": "CTET | Starts on 9th Jul’26"
+      },
+      {
+        "title": "CTET PREMIUM INFINITY 3.0 SEP 2026 PAPER 2 SST",
+        "language": "Hinglish",
+        "price": "3999",
+        "discount": "63",
+        "total": "1499",
+        "description": "CTET | Starts on 9th Jul’26"
+      },
+      {
+        "title": "CTET PREMIUM COMBO INFINITY 3.0 SEP 2026 PAPER 1 & PAPER 2 SST",
+        "language": "Hinglish",
+        "price": "4799",
+        "discount": "63",
+        "total": "1799",
+        "description": "CTET | Starts on 9th Jul’26"
+      },
+      {
+        "title": "CTET PREMIUM COMBO INFINITY 3.0 SEP 2026 PAPER 1 & PAPER 2 MATH & SCIENCE",
+        "language": "Hinglish",
+        "price": "4799",
+        "discount": "63",
+        "total": "1799",
+        "description": "CTET | Starts on 9th Jul’26"
+      },
+      {
+        "title": "CTET PREMIUM INFINITY 2.0 PAPER 2 SST SEP 2026",
+        "language": "Hinglish",
+        "price": "3999",
+        "discount": "63",
+        "total": "1499",
+        "description": "Teaching Exams | Started on 10th Jun’26"
+      },
+      {
+        "title": "UPTET Revision+Practice Batch 2026 Paper 1 & Paper 2",
+        "language": "Hinglish",
+        "price": "999",
+        "discount": "50",
+        "total": "499",
+        "description": "Teaching Exams | Started on 25th May’26"
+      },
+      {
+        "title": "DSSSB TGT Computer Science 2026",
+        "language": "Hinglish",
+        "price": "4799",
+        "discount": "67",
+        "total": "1599",
+        "description": "Teaching Exams | Started on 22nd Jun’26"
+      },
+      {
+        "title": "CTET PREMIUM COMBO INFINTY 2.0 SEP 2026 (Paper 1 & Paper 2 Maths & Science)",
+        "language": "Hinglish",
+        "price": "4799",
+        "discount": "63",
+        "total": "1799",
+        "description": "Teaching Exams | Started on 10th Jun’26"
+      },
+      {
+        "title": "CTET PREMIUM COMBO INFINITY 2.0 SEP 2026 (Paper 1 & Paper 2 SST)",
+        "language": "Hinglish",
+        "price": "4799",
+        "discount": "63",
+        "total": "1799",
+        "description": "Teaching Exams | Started on 10th Jun’26"
+      },
+      {
+        "title": "CTET PREMIUM 2.0 SEP 2026 PAPER 1",
+        "language": "Hinglish",
+        "price": "1999",
+        "discount": "63",
+        "total": "749",
+        "description": "Teaching Exams | Started on 10th Jun’26"
+      },
+      {
+        "title": "CTET PREMIUM 2.0 PAPER 2 MATH & SCIENCE SEP 2026",
+        "language": "Hinglish",
+        "price": "2599",
+        "discount": "63",
+        "total": "949",
+        "description": "Teaching Exams | Started on 10th Jun’26"
+      }
+    ],
+    "All Government Job Exams - Railway": [
+      {
+        "title": "RRB Technician Grade III 2026",
+        "language": "Hinglish",
+        "price": "1199",
+        "discount": "33",
+        "total": "799",
+        "description": "RRB | Started on 29th Jun’26"
+      },
+      {
+        "title": "Mission RRB Technician Grade III CEN 2/2026",
+        "language": "Hinglish",
+        "price": "1199",
+        "discount": "33",
+        "total": "799",
+        "description": "Railway Exams | Starts on 9th Jul’26"
+      },
+      {
+        "title": "Mission RRB Technician Gr I Signal CEN 2/2026",
+        "language": "Hinglish",
+        "price": "1499",
+        "discount": "40",
+        "total": "899",
+        "description": "Railway Exams | Starts on 9th Jul’26"
+      },
+      {
+        "title": "Mission RRB ALP CEN 1/ 2026 CBT 1 + CBT 2",
+        "language": "Hinglish",
+        "price": "1499",
+        "discount": "33",
+        "total": "999",
+        "description": "Railway Exams | Starts on 9th Jul’26"
+      },
+      {
+        "title": "RRB Section Controller CEN 3/2026",
+        "language": "Hinglish",
+        "price": "1499",
+        "discount": "33",
+        "total": "999",
+        "description": "Railway Exams | Starts on 20th Jul’26"
+      },
+      {
+        "title": "Humsafar Express 4.0 Railway 2026-27",
+        "language": "Hinglish",
+        "price": "1799",
+        "discount": "33",
+        "total": "1199",
+        "description": "Railway Exams | Starts on 13th Jul’26"
+      },
+      {
+        "title": "RRB Technician Gr I Signal",
+        "language": "Hinglish",
+        "price": "1499",
+        "discount": "40",
+        "total": "899",
+        "description": "RRB | Started on 29th Jun’26"
+      },
+      {
+        "title": "Mission RRB ALP 2026 CBT 1 + CBT 2",
+        "language": "Hinglish",
+        "price": "1499",
+        "discount": "33",
+        "total": "999",
+        "description": "RRB ALP | Started on 11th Jun’26"
+      },
+      {
+        "title": "Tejas RRB NTPC 2026-27",
+        "language": "Hinglish",
+        "price": "1499",
+        "discount": "33",
+        "total": "999",
+        "description": "Railway Exams | Started on 15th Jun’26"
+      },
+      {
+        "title": "Railway Mahapack Pro",
+        "language": "Hinglish",
+        "price": "3499",
+        "discount": "57",
+        "total": "1499",
+        "description": "Govt Exams | Access to all Railway Courses"
+      },
+      {
+        "title": "Humsafar Express 3.0 Railway 2026-27",
+        "language": "Hinglish",
+        "price": "1799",
+        "discount": "33",
+        "total": "1199",
+        "description": "Railway Exams | Started on 15th Jun’26"
+      },
+      {
+        "title": "Rajdhani 2.0 Railway Group D Level 1",
+        "language": "Hinglish",
+        "price": "749",
+        "discount": "33",
+        "total": "499",
+        "description": "Railway Group D | Started on 12th Jun’26"
+      },
+      {
+        "title": "RRB Technician Gr I Signal Video Course 2026",
+        "language": "Hinglish",
+        "price": "1999",
+        "discount": "65",
+        "total": "699",
+        "description": "Railway Exams | Started on 11th Apr’26"
+      },
+      {
+        "title": "RRB Technician Gr III Video Course",
+        "language": "Hinglish",
+        "price": "1499",
+        "discount": "70",
+        "total": "449",
+        "description": "Railway Exams | Started on 11th Apr’26"
+      },
+      {
+        "title": "Brahmastra NTPC Graduate | Under Graduate Video Course",
+        "language": "Hinglish",
+        "price": "1999",
+        "discount": "75",
+        "total": "499",
+        "description": "Railway Exams | Started on 18th Feb’26"
+      },
+      {
+        "title": "SSC & Railway Mahapack Pro",
+        "language": "Hinglish",
+        "price": "11499",
+        "discount": "70",
+        "total": "3499",
+        "description": "Govt Exams | Access to all SSC and Railway Courses"
+      }
+    ],
+    "CA, CS, Banking & Finance Courses - JAIIB & CAIIB": [
+      {
+        "title": "JAIIB Mahapack",
+        "language": "Hinglish",
+        "price": "6000",
+        "discount": "53",
+        "total": "2799",
+        "description": "JAIIB | Access to all Jaiib Courses"
+      },
+      {
+        "title": "CAIIB Mahapack",
+        "language": "Hinglish",
+        "price": "8000",
+        "discount": "56",
+        "total": "3499",
+        "description": "CAIIB | Access to all Caiib Courses"
+      },
+      {
+        "title": "JAIIB AND CAIIB Mahapack",
+        "language": "Hinglish",
+        "price": "11000",
+        "discount": "59",
+        "total": "4499",
+        "description": "JAIIB , CAIIB | Access to all Jaiib and Caiib Courses"
+      },
+      {
+        "title": "Officers JAIIB Foundation 2.0 Batch for Nov 2026",
+        "language": "Hinglish",
+        "price": "4199",
+        "discount": "45",
+        "total": "2299",
+        "description": "JAIIB | Started on 24th Jun’26"
+      },
+      {
+        "title": "Goal CAIIB 2.0 Foundation Batch For Dec 2026",
+        "language": "Hinglish",
+        "price": "4999",
+        "discount": "44",
+        "total": "2799",
+        "description": "CAIIB | Started on 28th Jun’26"
+      },
+      {
+        "title": "Goal CAIIB Foundation Batch For Dec 2026",
+        "language": "Hinglish",
+        "price": "5599",
+        "discount": "50",
+        "total": "2799",
+        "description": "CAIIB | Started on 19th May’26"
+      },
+      {
+        "title": "Officers JAIIB Foundation Batch for Nov 2026",
+        "language": "Hinglish",
+        "price": "4599",
+        "discount": "50",
+        "total": "2299",
+        "description": "JAIIB | Started on 17th May’26"
+      },
+      {
+        "title": "JAIIB Batch for IE & IFS Nov 2026",
+        "language": "Hinglish",
+        "price": "1999",
+        "discount": "50",
+        "total": "999",
+        "description": "JAIIB | Started on 17th May’26"
+      },
+      {
+        "title": "JAIIB Batch for PPB Nov 2026",
+        "language": "Hinglish",
+        "price": "1998",
+        "discount": "50",
+        "total": "999",
+        "description": "JAIIB | Started on 17th May’26"
+      },
+      {
+        "title": "CAIIB BRBL Foundation Course Dec 2026",
+        "language": "Hinglish",
+        "price": "1999",
+        "discount": "50",
+        "total": "999",
+        "description": "CAIIB | Started on 23rd May’26"
+      },
+      {
+        "title": "JAIIB Batch for RBWM Nov 2026",
+        "language": "Hinglish",
+        "price": "1998",
+        "discount": "50",
+        "total": "998",
+        "description": "JAIIB | Started on 19th May’26"
+      },
+      {
+        "title": "CAIIB ABFM Foundation Course Dec 2026",
+        "language": "Hinglish",
+        "price": "1999",
+        "discount": "50",
+        "total": "999",
+        "description": "CAIIB | Started on 21st May’26"
+      },
+      {
+        "title": "CAIIB ABM Foundation Course Dec 2026",
+        "language": "Hinglish",
+        "price": "1998",
+        "discount": "50",
+        "total": "999",
+        "description": "CAIIB | Started on 19th May’26"
+      },
+      {
+        "title": "Samarth 2.0 RBI Grade-B Foundation Batch 2026 (Phase 1 & 2)",
+        "language": "Hinglish",
+        "price": "4999",
+        "discount": "54",
+        "total": "2299",
+        "description": "RBI Grade B | Started on 27th Jan’26"
+      },
+      {
+        "title": "Samarth RBI Grade-B Foundation Batch 2026 (Phase 1 & 2)",
+        "language": "Hinglish",
+        "price": "4999",
+        "discount": "54",
+        "total": "2299",
+        "description": "Banking Exams | Started on 22nd Sep’25"
+      },
+      {
+        "title": "RBI Notes Prime – ESI & FM 2025",
+        "language": "Hinglish",
+        "price": "999",
+        "discount": "50",
+        "total": "499",
+        "description": "CAIIB | Started on 1st Dec’25"
+      },
+      {
+        "title": "CAIIB CENTRAL BANKING (VIDEO COURSE)",
+        "language": "Hinglish",
+        "price": "1999",
+        "discount": "50",
+        "total": "999",
+        "description": "CAIIB | Started on 1st Dec’25"
+      },
+      {
+        "title": "CAIIB Human Resource Management (Video Course)",
+        "language": "Hinglish",
+        "price": "1999",
+        "discount": "50",
+        "total": "999",
+        "description": "CAIIB | Started on 1st Dec’25"
+      },
+      {
+        "title": "CAIIB RURAL BANKING Complete Course",
+        "language": "Hinglish",
+        "price": "3999",
+        "discount": "80",
+        "total": "799",
+        "description": "CAIIB | Started on 1st Dec’25"
+      },
+      {
+        "title": "CAIIB Risk Management Complete Course",
+        "language": "Hinglish",
+        "price": "3999",
+        "discount": "80",
+        "total": "799",
+        "description": "CAIIB | Started on 1st Dec’25"
+      }
+    ],
+    "CA, CS, Banking & Finance Courses - CFA": [
+      {
+        "title": "Fin-X CFA Level 1 Pro Batch (Feb/May 27)",
+        "language": "Hinglish",
+        "price": "27000",
+        "discount": "48",
+        "total": "13999",
+        "description": "CFA | Starts on 13th Jul’26"
+      },
+      {
+        "title": "Fin-X CFA Level 1 Batch (Feb/ May 27)",
+        "language": "Hinglish",
+        "price": "22000",
+        "discount": "45",
+        "total": "11999",
+        "description": "CFA | Starts on 13th Jul’26"
+      },
+      {
+        "title": "Fin-X CFA Level 1 Pro Batch (Nov 26/Feb 27)",
+        "language": "Hinglish",
+        "price": "35000",
+        "discount": "57",
+        "total": "14999",
+        "description": "CFA | Started on 4th May’26"
+      },
+      {
+        "title": "Fin-X CFA Level 1 (4.0) Batch (Nov 26/ Feb 27)",
+        "language": "Hinglish",
+        "price": "22000",
+        "discount": "41",
+        "total": "12999",
+        "description": "CFA | Started on 8th Jun’26"
+      },
+      {
+        "title": "CFA Level 1 – Fastrack Batch (Recorded)",
+        "language": "Hinglish",
+        "price": "15000",
+        "discount": "66",
+        "total": "4999",
+        "description": "CFA | Started on 30th Jun’26"
+      },
+      {
+        "title": "Fin-X CFA Level 1 (3.0) Batch (Nov 26/ Feb 27)",
+        "language": "Hinglish",
+        "price": "30000",
+        "discount": "57",
+        "total": "12999",
+        "description": "CFA | Started on 4th May’26"
+      },
+      {
+        "title": "Fin-X CFA Level-1 2.0 Batch (Nov 26/Feb 27)",
+        "language": "Hinglish",
+        "price": "30000",
+        "discount": "57",
+        "total": "12999",
+        "description": "CFA_Level_1 | Started on 2nd Apr’26"
+      },
+      {
+        "title": "Fin-X CFA Level 1 Batch (Aug/Nov 26)",
+        "language": "Hinglish",
+        "price": "30000",
+        "discount": "57",
+        "total": "12999",
+        "description": "CFA_Level_1 | Started on 9th Mar’26"
+      }
+    ],
+    "CA, CS, Banking & Finance Courses - Government Bank Exams": [
+      {
+        "title": "Bank Mahapack",
+        "language": "Hinglish",
+        "price": "4999",
+        "discount": "40",
+        "total": "2999",
+        "description": "Banking Exams | For ALL Bank exams"
+      },
+      {
+        "title": "Bank SSC Mahapack",
+        "language": "Hinglish",
+        "price": "11499",
+        "discount": "63",
+        "total": "4299",
+        "description": "Banking Exams | For all Bank & SSC exams"
+      },
+      {
+        "title": "AIM Prime Foundation Batch for All Banking Exams",
+        "language": "Hinglish",
+        "price": "3999",
+        "discount": "38",
+        "total": "2499",
+        "description": "Banking Exams | Started on 29th Jun’26"
+      },
+      {
+        "title": "Ultimate SBI PO/Clerk Selection Batch 2026",
+        "language": "Hinglish",
+        "price": "3499",
+        "discount": "49",
+        "total": "1799",
+        "description": "Banking | Started on 12th Jun’26"
+      },
+      {
+        "title": "Ved Prime Batch for All Banking Exams 2026-27",
+        "language": "Hinglish",
+        "price": "4499",
+        "discount": "42",
+        "total": "2599",
+        "description": "Banking Exams | Started on 8th Jun’26"
+      },
+      {
+        "title": "AIM Clerk Foundation for IBPS/SBI Clerk Exams",
+        "language": "Hinglish",
+        "price": "3599",
+        "discount": "44",
+        "total": "1999",
+        "description": "SBI Clerk | Started on 29th Jun’26"
+      },
+      {
+        "title": "Rudra Prime Batch for Bank PO/Clerk exams",
+        "language": "Hinglish",
+        "price": "7999",
+        "discount": "68",
+        "total": "2599",
+        "description": "Banking Exams | Started on 4th May’26"
+      },
+      {
+        "title": "Rudra 2.0 Bank PO Foundation 2026",
+        "language": "Hinglish",
+        "price": "4999",
+        "discount": "50",
+        "total": "2499",
+        "description": "Banking Exams | Started on 30th Apr’26"
+      },
+      {
+        "title": "Aim 2.0 Bank Clerk Foundation",
+        "language": "Hinglish",
+        "price": "3999",
+        "discount": "50",
+        "total": "1999",
+        "description": "Banking | Started on 20th May’26"
+      },
+      {
+        "title": "Aim Bank Clerk Foundation",
+        "language": "Hinglish",
+        "price": "3999",
+        "discount": "50",
+        "total": "1999",
+        "description": "Banking Exams | Started on 6th Mar’26"
+      },
+      {
+        "title": "Rudra Bank PO Foundation 2026",
+        "language": "Hinglish",
+        "price": "4999",
+        "discount": "50",
+        "total": "2499",
+        "description": "Banking Exams | Started on 6th Mar’26"
+      },
+      {
+        "title": "Fluent English 2026 Batch for Bank Exams",
+        "language": "Hinglish",
+        "price": "4999",
+        "discount": "80",
+        "total": "999",
+        "description": "Banking Exams | Started on 5th May’26"
+      },
+      {
+        "title": "VISTAAR QUANT 2026 Foundation Batch for Bank Exams",
+        "language": "Hinglish",
+        "price": "4999",
+        "discount": "80",
+        "total": "999",
+        "description": "Banking Exams | Started on 5th May’26"
+      },
+      {
+        "title": "Anant Reasoning 2026 Pre+Mains Batch for Bank Exams",
+        "language": "Hinglish",
+        "price": "4999",
+        "discount": "80",
+        "total": "999",
+        "description": "Banking Exams | Started on 5th May’26"
+      },
+      {
+        "title": "RBI Foundation 2.0 Batch 2026",
+        "language": "Hinglish",
+        "price": "4999",
+        "discount": "50",
+        "total": "2499",
+        "description": "Banking Exams | Started on 6th Mar’26"
+      },
+      {
+        "title": "Ved 2026: Banking Zero to Hero Batch",
+        "language": "Hinglish",
+        "price": "4999",
+        "discount": "64",
+        "total": "1799",
+        "description": "Banking Exams | Started on 27th Jan’26"
+      },
+      {
+        "title": "SBI Apprentice Batch (Recorded)",
+        "language": "Hinglish",
+        "price": "1799",
+        "discount": "44",
+        "total": "999",
+        "description": "Banking | Started on 27th May’26"
+      },
+      {
+        "title": "Rudra 2026: Banking Zero to Hero Batch",
+        "language": "Hinglish",
+        "price": "4999",
+        "discount": "64",
+        "total": "1799",
+        "description": "Banking Exams | Started on 22nd Dec’25"
+      },
+      {
+        "title": "Ultimate SBI/IBPS PO Pre+Mains Batch 2026",
+        "language": "Hinglish",
+        "price": "4999",
+        "discount": "54",
+        "total": "2299",
+        "description": "Banking Exams | Started on 27th Jan’26"
+      },
+      {
+        "title": "Crack SBI/IBPS Clerk Pre+Mains Batch 2026",
+        "language": "Hinglish",
+        "price": "4999",
+        "discount": "54",
+        "total": "2299",
+        "description": "Banking Exams | Started on 29th Dec’25"
+      }
+    ],
+    "CA, CS, Banking & Finance Courses - Certifications - Banking": [
+      {
+        "title": "Certification program  in Banking, Financial Services & Insurance",
+        "language": "Hinglish",
+        "price": "49999",
+        "discount": "40",
+        "total": "29999",
+        "description": "Exam Target | Started on 18th May’26"
+      },
+      {
+        "title": "Stock Market For Beginners",
+        "language": "Hinglish",
+        "price": "4000",
+        "discount": "37",
+        "total": "2500",
+        "description": "Exam Target | Started on 7th Feb’26"
+      },
+      {
+        "title": "NISM Series V-A & V-B - Mutual Fund Foundation",
+        "language": "Hinglish",
+        "price": "3000",
+        "discount": "50",
+        "total": "1499",
+        "description": "Exam Target | Started on 6th Jan’26"
+      },
+      {
+        "title": "NISM Series XII - Securities Markets Foundation",
+        "language": "Bilingual",
+        "price": "3000",
+        "discount": "50",
+        "total": "1499",
+        "description": "Exam Target | Started on 8th Jan’26"
+      }
+    ],
+    "CA, CS, Banking & Finance Courses - Finance Certification": [
+      {
+        "title": "Finance, Tax and Accounting Course - (Batch-19) Pre",
+        "language": "Hinglish",
+        "price": "39999",
+        "discount": "25",
+        "total": "29999",
+        "description": "Exam Target | Starts on 13th Jul’26"
+      },
+      {
+        "title": "Finance, Tax and Accounting Course - (Batch-19) Pro",
+        "language": "Hinglish",
+        "price": "49999",
+        "discount": "30",
+        "total": "34999",
+        "description": "Exam Target | Starts on 13th Jul’26"
+      },
+      {
+        "title": "Financial Modeling with AI",
+        "language": "Hinglish",
+        "price": "34999",
+        "discount": "51",
+        "total": "16999",
+        "description": "Exam Target | Started on 10th Jun’26"
+      },
+      {
+        "title": "AI in Finance",
+        "language": "Hinglish",
+        "price": "2999",
+        "discount": "50",
+        "total": "1499",
+        "description": "Exam Target | Started on 5th Apr’26"
+      },
+      {
+        "title": "TallyPrime Basic with GST Essentials (Tally Certification)",
+        "language": "English",
+        "price": "2999",
+        "discount": "49",
+        "total": "1500",
+        "description": "Exam Target | Started on 7th Feb’26"
+      },
+      {
+        "title": "TallyPrime Advance with GST Accounting (Tally Certification)",
+        "language": "English",
+        "price": "4500",
+        "discount": "51",
+        "total": "2200",
+        "description": "Exam Target | Started on 7th Feb’26"
+      }
+    ],
+    "NET Exams & Teacher Training - UGC NET": [
+      {
+        "title": "Mission JRF Pro Dec 2026: Paper 1",
+        "language": "Hinglish",
+        "price": "7500",
+        "discount": "49",
+        "total": "3799",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF Pro Dec 2026: Commerce + Paper 1",
+        "language": "Hinglish",
+        "price": "13000",
+        "discount": "48",
+        "total": "6799",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF Pro Dec 2026: Computer + Paper 1",
+        "language": "Hinglish",
+        "price": "13000",
+        "discount": "48",
+        "total": "6799",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF Pro Dec 2026: Economics + Paper 1",
+        "language": "Hinglish",
+        "price": "13000",
+        "discount": "48",
+        "total": "6799",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF Pro Dec 2026: Education + Paper 1",
+        "language": "Hinglish",
+        "price": "13000",
+        "discount": "48",
+        "total": "6799",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF Pro Dec 2026: English Literature + Paper 1",
+        "language": "Hinglish",
+        "price": "13000",
+        "discount": "48",
+        "total": "6799",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF Pro Dec 2026: Environmental Sciences + Paper 1",
+        "language": "Hinglish",
+        "price": "13000",
+        "discount": "52",
+        "total": "6299",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF Pro Dec 2026: Geography + Paper 1",
+        "language": "Hinglish",
+        "price": "13000",
+        "discount": "48",
+        "total": "6799",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF Pro Dec 2026: Hindi Literature + Paper 1",
+        "language": "Hinglish",
+        "price": "13000",
+        "discount": "48",
+        "total": "6799",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF Pro Dec 2026: History + Paper 1",
+        "language": "Hinglish",
+        "price": "13000",
+        "discount": "48",
+        "total": "6799",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF Pro Dec 2026: Law + Paper 1",
+        "language": "Hinglish",
+        "price": "13000",
+        "discount": "52",
+        "total": "6299",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF Pro Dec 2026: Management + Paper 1",
+        "language": "Hinglish",
+        "price": "13000",
+        "discount": "52",
+        "total": "6299",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF Pro Dec 2026: Political Science + Paper 1",
+        "language": "Hinglish",
+        "price": "13000",
+        "discount": "48",
+        "total": "6799",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF Pro Dec 2026: Sociology + Paper 1",
+        "language": "Hinglish",
+        "price": "13000",
+        "discount": "52",
+        "total": "6299",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF 1.0 Dec 2026: Paper 1",
+        "language": "Hinglish",
+        "price": "5000",
+        "discount": "50",
+        "total": "2499",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF 1.0 Dec 2026: Commerce + Paper 1",
+        "language": "Hinglish",
+        "price": "10000",
+        "discount": "47",
+        "total": "5299",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF 1.0 Dec 2026: Computer + Paper 1",
+        "language": "Hinglish",
+        "price": "10000",
+        "discount": "47",
+        "total": "5299",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF 1.0 Dec 2026: Economics + Paper 1",
+        "language": "Hinglish",
+        "price": "10000",
+        "discount": "47",
+        "total": "5299",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF 1.0 Dec 2026: Education + Paper 1",
+        "language": "Hinglish",
+        "price": "10000",
+        "discount": "47",
+        "total": "5299",
+        "description": "UGC_NET_Dec_2026 | Starts on 10th Jul’26"
+      },
+      {
+        "title": "Mission JRF 1.0 Dec 2026: English Literature + Paper 1",
+        "language": "Hinglish",
+        "price": "10000",
+        "discount": "47",
+        "total": "5299",
+        "description": "UGC NET Dec 2026 | Starts on 10th Jul’26"
+      }
+    ],
+    "NET Exams & Teacher Training - CSIR NET": [
+      {
+        "title": "Shodh Pro June 2027 Life Sciences",
+        "language": "Hinglish",
+        "price": "9999",
+        "discount": "25",
+        "total": "7499",
+        "description": "CSIR_NET_Dec_2026 | Started on 8th Jun’26"
+      },
+      {
+        "title": "Shodh Pro June 2027 Mathematical Sciences",
+        "language": "Hinglish",
+        "price": "9999",
+        "discount": "25",
+        "total": "7499",
+        "description": "CSIR_NET_Dec_2026 | Started on 8th Jun’26"
+      },
+      {
+        "title": "Shodh Pro June 2027 Chemical Sciences",
+        "language": "Hinglish",
+        "price": "9999",
+        "discount": "25",
+        "total": "7499",
+        "description": "CSIR_NET_Dec_2026 | Started on 8th Jun’26"
+      },
+      {
+        "title": "Shodh Dec 2026 Life Sciences",
+        "language": "Hinglish",
+        "price": "6999",
+        "discount": "28",
+        "total": "4999",
+        "description": "CSIR_NET_Dec_2026 | Started on 8th Jun’26"
+      },
+      {
+        "title": "Shodh Pro June 2027 Physical Sciences",
+        "language": "Hinglish",
+        "price": "9999",
+        "discount": "25",
+        "total": "7499",
+        "description": "CSIR_NET_Dec_2026 | Started on 8th Jun’26"
+      },
+      {
+        "title": "Shodh Dec 2026 Chemical Sciences",
+        "language": "Hinglish",
+        "price": "6999",
+        "discount": "28",
+        "total": "4999",
+        "description": "CSIR_NET_Dec_2026 | Started on 8th Jun’26"
+      },
+      {
+        "title": "Shodh Dec 2026 Mathematical Sciences",
+        "language": "Hinglish",
+        "price": "6999",
+        "discount": "28",
+        "total": "4999",
+        "description": "CSIR_NET_Dec_2026 | Started on 8th Jun’26"
+      },
+      {
+        "title": "Shodh Dec 2026 Physical Sciences",
+        "language": "Hinglish",
+        "price": "6999",
+        "discount": "28",
+        "total": "4999",
+        "description": "CSIR_NET_Dec_2026 | Started on 8th Jun’26"
+      },
+      {
+        "title": "Shodh Foundation Dec 2026 Life Sciences",
+        "language": "Hinglish",
+        "price": "6999",
+        "discount": "29",
+        "total": "4999",
+        "description": "CSIR_NET_Dec_2026 | Started on 6th Apr’26"
+      },
+      {
+        "title": "Shodh Foundation Dec 2026 Mathematical Sciences",
+        "language": "Hinglish",
+        "price": "6999",
+        "discount": "29",
+        "total": "4999",
+        "description": "CSIR_NET_Dec_2026 | Started on 6th Apr’26"
+      },
+      {
+        "title": "Shodh Foundation Dec 2026 Chemical Sciences",
+        "language": "Hinglish",
+        "price": "6999",
+        "discount": "29",
+        "total": "4999",
+        "description": "CSIR_NET_Dec_2026 | Started on 6th Apr’26"
+      },
+      {
+        "title": "Shodh Foundation Dec 2026 Physical Sciences",
+        "language": "Hinglish",
+        "price": "6999",
+        "discount": "29",
+        "total": "4999",
+        "description": "CSIR_NET_Dec_2026 | Started on 6th Apr’26"
+      },
+      {
+        "title": "Shodh Fastrack June 2.0 2026 Chemical Sciences",
+        "language": "Hinglish",
+        "price": "2499",
+        "discount": "20",
+        "total": "1999",
+        "description": "CSIR NET Jun 2026 | Started on 1st Jun’26"
+      },
+      {
+        "title": "Shodh Fastrack June 2.0 2026 Life Sciences",
+        "language": "Hinglish",
+        "price": "2499",
+        "discount": "20",
+        "total": "1999",
+        "description": "CSIR NET Jun 2026 | Started on 1st Jun’26"
+      },
+      {
+        "title": "Shodh Fastrack June 2.0 2026 Physical Sciences",
+        "language": "Hinglish",
+        "price": "2499",
+        "discount": "20",
+        "total": "1999",
+        "description": "CSIR NET Jun 2026 | Started on 1st Jun’26"
+      },
+      {
+        "title": "Shodh Fastrack June 2.0 2026 Mathematical Sciences",
+        "language": "Hinglish",
+        "price": "2499",
+        "discount": "20",
+        "total": "1999",
+        "description": "CSIR NET Jun 2026 | Started on 1st Jun’26"
+      },
+      {
+        "title": "Shodh June 2.0 2026 General Aptitude",
+        "language": "Hinglish",
+        "price": "499",
+        "discount": "30",
+        "total": "349",
+        "description": "CSIR NET Jun 2026 | Started on 1st Jun’26"
+      }
+    ],
+    "NET Exams & Teacher Training - Teacher Training": [],
+    "Earners ( Upskilling ) - PC Courses": [
+      {
+        "title": "Video Editing with AI - Earners",
+        "language": "Hinglish",
+        "price": "10000",
+        "discount": "72",
+        "total": "2800",
+        "description": "Skills | Started on 20th Jun’26"
+      },
+      {
+        "title": "Data Analytics with AI - Earners",
+        "language": "Hinglish",
+        "price": "10000",
+        "discount": "72",
+        "total": "2800",
+        "description": "Skills | Started on 19th Jun’26"
+      },
+      {
+        "title": "⁠All PC Courses (Combo) - Earners",
+        "language": "Hinglish",
+        "price": "20000",
+        "discount": "80",
+        "total": "3999",
+        "description": "Skills | Started on 19th Jun’26"
+      },
+      {
+        "title": "Coding & Web Development - Earners",
+        "language": "Hinglish",
+        "price": "10000",
+        "discount": "72",
+        "total": "2800",
+        "description": "Skills | Started on 19th Jun’26"
+      },
+      {
+        "title": "DSA in C++ - Earners",
+        "language": "Hinglish",
+        "price": "10000",
+        "discount": "72",
+        "total": "2800",
+        "description": "Skills | Started on 19th Jun’26"
+      },
+      {
+        "title": "AI & Machine Learning - Earners",
+        "language": "Hinglish",
+        "price": "10000",
+        "discount": "72",
+        "total": "2800",
+        "description": "Skills | Started on 19th Jun’26"
+      },
+      {
+        "title": "⁠Graphic Design with AI - Earners",
+        "language": "Hinglish",
+        "price": "10000",
+        "discount": "72",
+        "total": "2800",
+        "description": "Skills | Started on 20th Jun’26"
+      }
+    ],
+    "Earners ( Upskilling ) - Mobile Courses": [
+      {
+        "title": "Mobile Video Editing - Earners",
+        "language": "Hinglish",
+        "price": "1500",
+        "discount": "47",
+        "total": "800",
+        "description": "Exam Target | Started on 2nd May’26"
+      },
+      {
+        "title": "All Mobile Courses (Combo)- Earners",
+        "language": "Hinglish",
+        "price": "7500",
+        "discount": "83",
+        "total": "1300",
+        "description": "Exam Target | Started on 2nd May’26"
+      },
+      {
+        "title": "AI & ChatGPT - Earners",
+        "language": "Hinglish",
+        "price": "1500",
+        "discount": "47",
+        "total": "800",
+        "description": "Exam Target | Started on 2nd May’26"
+      },
+      {
+        "title": "YouTube Content Creation – Earners",
+        "language": "Hinglish",
+        "price": "1500",
+        "discount": "47",
+        "total": "800",
+        "description": "Exam Target | Started on 2nd May’26"
+      },
+      {
+        "title": "Instagram & Social Media – Earners",
+        "language": "Hinglish",
+        "price": "1500",
+        "discount": "47",
+        "total": "800",
+        "description": "Exam Target | Started on 2nd May’26"
+      },
+      {
+        "title": "Mobile Graphic Designing – Earners",
+        "language": "Hinglish",
+        "price": "1500",
+        "discount": "47",
+        "total": "800",
+        "description": "Exam Target | Started on 2nd May’26"
+      }
+    ],
+    "Spoken English": [
+      {
+        "title": "Spoken English by PW Talk 12 Months",
+        "language": "Hinglish",
+        "price": "3599",
+        "discount": "67",
+        "total": "1199",
+        "description": "Exam Target | Started on 19th May’26"
+      },
+      {
+        "title": "Spoken English by PW Talk 6 Months",
+        "language": "Hinglish",
+        "price": "1799",
+        "discount": "56",
+        "total": "799",
+        "description": "Exam Target | Started on 19th May’26"
+      },
+      {
+        "title": "Spoken English by PW Talk 3 Months",
+        "language": "Hinglish",
+        "price": "899",
+        "discount": "22",
+        "total": "699",
+        "description": "Exam Target | Started on 19th May’26"
+      },
+      {
+        "title": "Spoken English by PW Talk",
+        "language": "Hinglish",
+        "price": "899",
+        "discount": "22",
+        "total": "699",
+        "description": "Exam Target | Access to PW Talk | 3, 6 & 12 Months Plans Available"
+      }
+    ],
+    "Gyaan-E (Short-Courses)": [
+      {
+        "title": "PW Gyaan-E Master AI + Excel Course",
+        "language": "Hinglish",
+        "price": "999",
+        "discount": "50",
+        "total": "499",
+        "description": "Skills | Starts on 6th Jul’26"
+      },
+      {
+        "title": "PW Gyaan-E Go Viral",
+        "language": "Hinglish",
+        "price": "999",
+        "discount": "50",
+        "total": "499",
+        "description": "Skills | Starts on 6th Jul’26"
+      },
+      {
+        "title": "PW Gyaan-E Get Job Ready",
+        "language": "Hinglish",
+        "price": "999",
+        "discount": "50",
+        "total": "499",
+        "description": "Skills | Starts on 6th Jul’26"
+      }
+    ],
+    "M.A.D (Music, Art & Dance). - Music": [],
+    "M.A.D (Music, Art & Dance). - Art": [
+      {
+        "title": "Intensive Artist Training Program",
+        "language": "Hinglish",
+        "price": "2999",
+        "discount": "33",
+        "total": "1999",
+        "description": "Art | Started on 29th Jun’26"
+      }
+    ],
+    "M.A.D (Music, Art & Dance). - Dance": [],
+    "Online Degree": [
+      {
+        "title": "MBA PIONEER 2026 (CAT + OMETs)",
+        "language": "Hinglish",
+        "price": "15999",
+        "discount": "50",
+        "total": "7999",
+        "description": "CAT+OMETS | Started on 15th Dec’25"
+      },
+      {
+        "title": "Professional Course On Communication and Behavior Skills",
+        "language": "English",
+        "price": "10000",
+        "discount": "50",
+        "total": "5000",
+        "description": "Online Degree | Started on 17th Oct’25"
+      },
+      {
+        "title": "Personality Development Programme",
+        "language": "Hinglish",
+        "price": "20000",
+        "discount": "50",
+        "total": "10000",
+        "description": "Online Degree | Starts on 15th Jul’26"
+      }
+    ],
+    "Study Abroad & Career Abroad - TOEFL": [],
+    "Study Abroad & Career Abroad - Acadfly Study Abroad": [
+      {
+        "title": "Study Abroad - MBBS - Administrative Charges - $2000",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "192000",
+        "description": "CFA | Started on 16th Jun’26"
+      },
+      {
+        "title": "Study Abroad - MBBS - Processing Fees - ₹15,000",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "15000",
+        "description": "NEET 2026 | Started on 1st Apr’26"
+      },
+      {
+        "title": "Study Abroad - Masters/ Bachelors (Germany) Processing Fees - ₹25,000",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "25000",
+        "description": "JEE 2026 | Started on 1st Apr’26"
+      },
+      {
+        "title": "Study Abroad - Bachelors (Albania) Processing Fees - ₹10,000",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "10000",
+        "description": "JEE 2026 | Started on 1st Apr’26"
+      },
+      {
+        "title": "Study Abroad - Bachelors (Albania) Processing Fees - ₹50,000",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "50000",
+        "description": "JEE 2026 | Started on 1st Apr’26"
+      },
+      {
+        "title": "Study Abroad - Bachelors (Albania) Visa Consultation - ₹87,500",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "87500",
+        "description": "JEE 2026 | Started on 1st Apr’26"
+      },
+      {
+        "title": "Study Abroad - Diploma (Malaysia) Processing Fees - ₹25,000",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "25000",
+        "description": "JEE 2026 | Started on 1st Apr’26"
+      },
+      {
+        "title": "Study Abroad - Masters/ Bachelors (Germany) Processing Fees - ₹80,000",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "80000",
+        "description": "JEE 2026 | Started on 1st Apr’26"
+      },
+      {
+        "title": "Study Abroad - Diploma (Malaysia) Processing Fees - ₹100,000",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "100000",
+        "description": "JEE 2026 | Started on 1st Apr’26"
+      },
+      {
+        "title": "Study Abroad - Masters/ Bachelors (Germany) Visa Consultation - ₹95,000",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "95000",
+        "description": "JEE 2026 | Started on 1st Apr’26"
+      },
+      {
+        "title": "Study Abroad - Diploma (Malaysia) Visa Consultation - ₹100,000",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "100000",
+        "description": "JEE 2026 | Started on 1st Apr’26"
+      },
+      {
+        "title": "Study Abroad - Diploma (Malaysia) Service Charges - ₹223,000",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "223000",
+        "description": "JEE 2026 | Started on 1st Apr’26"
+      },
+      {
+        "title": "Study Abroad - Nursing - Processing Fees - ₹10,000",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "10000",
+        "description": "NEET 2026 | Started on 1st Apr’26"
+      },
+      {
+        "title": "Study Abroad - Nursing - Processing Fees - ₹50,000",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "50000",
+        "description": "NEET 2026 | Started on 1st Apr’26"
+      },
+      {
+        "title": "Study Abroad - Nursing - Processing Fees - ₹87,500",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "87500",
+        "description": "NEET 2026 | Started on 1st Apr’26"
+      },
+      {
+        "title": "Study Abroad - Nursing - Administrative Charges - $1000",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "95000",
+        "description": "NEET 2026 | Started on 1st Apr’26"
+      },
+      {
+        "title": "Study Abroad - MBBS - Processing Fees - ₹29,500",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "29500",
+        "description": "NEET 2026 | Started on 1st Apr’26"
+      },
+      {
+        "title": "Study Abroad - MBBS - Processing Fees - ₹50,000",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "50000",
+        "description": "NEET 2026 | Started on 1st Apr’26"
+      },
+      {
+        "title": "Study Abroad - MBBS - Processing Fees - ₹174,000",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "174000",
+        "description": "NEET 2026 | Started on 1st Apr’26"
+      },
+      {
+        "title": "Study Abroad - MBBS - Processing Fees - ₹169,000",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "169000",
+        "description": "NEET 2026 | Started on 1st Apr’26"
+      }
+    ],
+    "PW IOI (College)": [
+      {
+        "title": "PW Institute Of Innovation - School of Technology || Noida Campus",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "11",
+        "description": "Live Interactive Smart Classes | Regular Offline Tests"
+      },
+      {
+        "title": "PW Institute Of Innovation - School of Technology || Lucknow Campus",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "11",
+        "description": "Live Interactive Smart Classes | Regular Offline Tests"
+      },
+      {
+        "title": "PW Institute Of Innovation - School of Technology || Pune Campus",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "11",
+        "description": "Live Interactive Smart Classes | Regular Offline Tests"
+      },
+      {
+        "title": "PW Institute Of Innovation - School of Technology || Bangalore Campus",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "11",
+        "description": "Live Interactive Smart Classes | Regular Offline Tests"
+      }
+    ],
+    "Semester Prep - B.Sc": [],
+    "Semester Prep - B.Com": [],
+    "Skills - Data Science": [
+      {
+        "title": "Data Analytics With AI Course",
+        "language": "Hinglish",
+        "price": "9999",
+        "discount": "30",
+        "total": "6999",
+        "description": "Exam Target | Started on 1st Feb’26"
+      },
+      {
+        "title": "Data Science With Generative AI Course",
+        "language": "Hinglish",
+        "price": "9999",
+        "discount": "30",
+        "total": "6999",
+        "description": "Exam Target | Started on 3rd Feb’26"
+      },
+      {
+        "title": "Data Analytics with Gen AI (Offline Batch)",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "50000",
+        "description": "Exam Target | Started on 11th Jun’26"
+      },
+      {
+        "title": "AI/ML Launchpad Bootcamp",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "29",
+        "description": "Exam Target | Started on 16th Jun’26"
+      }
+    ],
+    "Skills - Digital Marketing with AI": [
+      {
+        "title": "Digital Marketing with AI (Offline Batch)",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "49999",
+        "description": "Exam Target | Started on 6th Jun’26"
+      },
+      {
+        "title": "Digital Marketing with AI Course",
+        "language": "Hinglish",
+        "price": "20000",
+        "discount": "50",
+        "total": "9999",
+        "description": "Exam Target | Started on 5th Jun’26"
+      },
+      {
+        "title": "Social Media Marketing Course",
+        "language": "Hinglish",
+        "price": "8999",
+        "discount": "11",
+        "total": "7999",
+        "description": "Exam Target | Started on 13th Apr’26"
+      },
+      {
+        "title": "How to Start Your Digital Marketing Agency",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "49",
+        "description": "Exam Target | Starts on 27th Jul’26"
+      },
+      {
+        "title": "Digital Marketing with AI + Social Media Marketing",
+        "language": "Hinglish",
+        "price": "0",
+        "discount": "0",
+        "total": "39999",
+        "description": "Exam Target | Started on 1st Jan’26"
+      }
+    ],
+    "Skills - Software Development": [
+      {
+        "title": "Full Stack Development with AI",
+        "language": "English",
+        "price": "8999",
+        "discount": "22",
+        "total": "6999",
+        "description": "Exam Target | Started on 1st Jan’26"
+      },
+      {
+        "title": "Certified Ethical Hacking Course",
+        "language": "Hinglish",
+        "price": "9999",
+        "discount": "50",
+        "total": "4999",
+        "description": "Exam Target | Starts on 18th Jul’26"
+      },
+      {
+        "title": "Decode Python with DSA Course 1",
+        "language": "English",
+        "price": "4999",
+        "discount": "30",
+        "total": "3499",
+        "description": "Exam Target | Started on 1st Jun’26"
+      },
+      {
+        "title": "DevOps and Cloud Computing Course",
+        "language": "Hinglish",
+        "price": "30000",
+        "discount": "16",
+        "total": "24999",
+        "description": "Exam Target | Started on 22nd Jan’26"
+      },
+      {
+        "title": "Decode C++ with DSA Course",
+        "language": "English",
+        "price": "4999",
+        "discount": "30",
+        "total": "3499",
+        "description": "Exam Target | hello one"
+      },
+      {
+        "title": "Decode Java with DSA Course",
+        "language": "English",
+        "price": "4999",
+        "discount": "30",
+        "total": "3499",
+        "description": "Exam Target | Started on 1st Jun’26"
+      }
+    ],
+    "Skills - Certifications - Banking": [
+      {
+        "title": "Certification program  in Banking, Financial Services & Insurance",
+        "language": "Hinglish",
+        "price": "49999",
+        "discount": "40",
+        "total": "29999",
+        "description": "Exam Target | Started on 18th May’26"
+      },
+      {
+        "title": "Stock Market For Beginners",
+        "language": "Hinglish",
+        "price": "4000",
+        "discount": "37",
+        "total": "2500",
+        "description": "Exam Target | Started on 7th Feb’26"
+      },
+      {
+        "title": "NISM Series V-A & V-B - Mutual Fund Foundation",
+        "language": "Hinglish",
+        "price": "3000",
+        "discount": "50",
+        "total": "1499",
+        "description": "Exam Target | Started on 6th Jan’26"
+      },
+      {
+        "title": "NISM Series XII - Securities Markets Foundation",
+        "language": "Bilingual",
+        "price": "3000",
+        "discount": "50",
+        "total": "1499",
+        "description": "Exam Target | Started on 8th Jan’26"
+      }
+    ],
+    "Skills - Health Care Skills - OTT, MLT": [],
+    "Skills - Teacher Training Program": [],
+    "Skills - IIT Online Courses": [
+      {
+        "title": "Post-Graduate Certificate Programme in AI-Driven FinTech (PGCPF)",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "590",
+        "description": "Certification | Started on 9th Apr’26"
+      },
+      {
+        "title": "AI-Driven Robotics: Design, Intelligence and Automation",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "590",
+        "description": "Certification | Started on 10th Jun’26"
+      },
+      {
+        "title": "Professional Certificate Programme in Generative AI and Machine Learning",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "590",
+        "description": "Certification | Started on 31st Mar’26"
+      },
+      {
+        "title": "Professional Certificate Programme in Gen AI in Digital Marketing",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "590",
+        "description": "Certification | Started on 31st Mar’26"
+      }
+    ],
+    "Skills - IIM Online Courses": [
+      {
+        "title": "Executive Certificate Programme in AI-Driven Marketing & Digital Growth",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "590",
+        "description": "Certification | Started on 31st Mar’26"
+      },
+      {
+        "title": "Executive Certificate Program in Digital Finance and FinTech",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "590",
+        "description": "Certification | Started on 31st Mar’26"
+      },
+      {
+        "title": "Professional Certificate Programme in Digital Marketing and Growth",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "1298",
+        "description": "Certification | Started on 31st Mar’26"
+      },
+      {
+        "title": "Post-Graduate Certificate Programme in AI-Driven General Management",
+        "language": "English",
+        "price": "0",
+        "discount": "0",
+        "total": "590",
+        "description": "Certification | Started on 23rd Jun’26"
+      }
+    ],
+    "Skills - Legal Skills": [
+      {
+        "title": "PW COMPLETE ADVOCACY PROGRAM",
+        "language": "Hinglish",
+        "price": "29999",
+        "discount": "40",
+        "total": "17999",
+        "description": "Exam Target | Started on 20th Jun’26"
+      },
+      {
+        "title": "PW Legal Drafting Certification Program 2026",
+        "language": "Hinglish",
+        "price": "10997",
+        "discount": "45",
+        "total": "5999",
+        "description": "Exam Target | Started on 20th Jun’26"
+      },
+      {
+        "title": "PW ADVANCED CIVIL LITIGATION & LEGAL DRAFTING PROGRAM 2026",
+        "language": "Hinglish",
+        "price": "24999",
+        "discount": "48",
+        "total": "12999",
+        "description": "Exam Target | Started on 20th Jun’26"
+      },
+      {
+        "title": "PW ADVANCED CRIMINAL LITIGATION & LEGAL DRAFTING PROGRAM 2026",
+        "language": "Hinglish",
+        "price": "24999",
+        "discount": "48",
+        "total": "12999",
+        "description": "Exam Target | Started on 20th Jun’26"
+      },
+      {
+        "title": "PW VAKIL TOOLKIT",
+        "language": "Bilingual",
+        "price": "899",
+        "discount": "44",
+        "total": "499",
+        "description": "Exam Target | Started on 15th Jun’26"
+      }
+    ],
+    "Skills - Urban Management": [
+      {
+        "title": "Municipal Managment Course",
+        "language": "Hindi",
+        "price": "0",
+        "discount": "0",
+        "total": "299",
+        "description": "Exam Target | Started on 20th Feb’26"
+      }
+    ]
+  }
+}

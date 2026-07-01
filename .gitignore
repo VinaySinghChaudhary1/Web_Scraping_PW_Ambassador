@@ -1,0 +1,18 @@
+# Local user profile containing active Chrome sessions (cookies, cache, etc.)
+chrome_profile/
+
+# Plaintext authorization token
+token.txt
+
+# Temporary / Debug files
+*.html
+*.png
+.qodo/
+raw_cohort_*.json
+raw_widgets_*.json
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+__pycache__/
+*.pyc

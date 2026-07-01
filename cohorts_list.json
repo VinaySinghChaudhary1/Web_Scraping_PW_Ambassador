@@ -1,0 +1,210 @@
+[
+  {
+    "name": "IIT-JEE - Class 11",
+    "id": "634fb54c0c56610011d10202"
+  },
+  {
+    "name": "IIT-JEE - Class 12",
+    "id": "634fb88abc72420011da2fe4"
+  },
+  {
+    "name": "IIT-JEE - Dropper",
+    "id": "634fb98b12c7990011691816"
+  },
+  {
+    "name": "NEET - Class 11",
+    "id": "634fd1c40c274c00183c7579"
+  },
+  {
+    "name": "NEET - Class 12",
+    "id": "634fd2463ce3d7001c50798a"
+  },
+  {
+    "name": "UPSC",
+    "id": "635b83410a47c70011ca5ffb"
+  },
+  {
+    "name": "Govt. Exams - SSC",
+    "id": "6365581c549c7b0018777f98"
+  },
+  {
+    "name": "Govt. Exams - Defence",
+    "id": "634fd45967d9790018241cff"
+  },
+  {
+    "name": "Engineering & Medical Exams ( College & Job ) - Polytechnic",
+    "id": "691f4a2d2e168ae6e51e0d70"
+  },
+  {
+    "name": "Engineering & Medical Exams ( College & Job ) - BSC Nursing Entrance",
+    "id": "69d373a81dfd334150349612"
+  },
+  {
+    "name": "College Entrance Exams ( UG & PG ) - IPMAT",
+    "id": "6489d9ee4c9e260018009e89"
+  },
+  {
+    "name": "College Entrance Exams ( UG & PG ) - Design - NID, UCEED, NIFT",
+    "id": "6628bb4b1f9b030018ae6ae1"
+  },
+  {
+    "name": "College Entrance Exams ( UG & PG ) - Architecture - NATA, JEE Paper 2",
+    "id": "6628bc735ae42f0018003a39"
+  },
+  {
+    "name": "College Entrance Exams ( UG & PG ) - CAT",
+    "id": "6379064ac1c07a0018b9d9c0"
+  },
+  {
+    "name": "All Government Job Exams - SSC",
+    "id": "6365581c549c7b0018777f98"
+  },
+  {
+    "name": "All Government Job Exams - Defence",
+    "id": "634fd45967d9790018241cff"
+  },
+  {
+    "name": "All Government Job Exams - UPSC",
+    "id": "635b83410a47c70011ca5ffb"
+  },
+  {
+    "name": "All Government Job Exams - Agriculture",
+    "id": "67ef53bfc56b142bd2a291da"
+  },
+  {
+    "name": "All Government Job Exams - Judiciary",
+    "id": "653bc22a6267960018c60113"
+  },
+  {
+    "name": "All Government Job Exams - Teaching",
+    "id": "63624936c7e4d100199becfc"
+  },
+  {
+    "name": "All Government Job Exams - Railway",
+    "id": "63c7e4ba0b73880276fa66b3"
+  },
+  {
+    "name": "CA, CS, Banking & Finance Courses - JAIIB & CAIIB",
+    "id": "6438db186b010b0018d50863"
+  },
+  {
+    "name": "CA, CS, Banking & Finance Courses - CFA",
+    "id": "69688f7ca71f48eeb62ab4f8"
+  },
+  {
+    "name": "CA, CS, Banking & Finance Courses - Government Bank Exams",
+    "id": "636555053936fa0018b257ec"
+  },
+  {
+    "name": "CA, CS, Banking & Finance Courses - Certifications - Banking",
+    "id": "65b95f8029c2850018459867"
+  },
+  {
+    "name": "CA, CS, Banking & Finance Courses - Finance Certification",
+    "id": "67d90d037fa9b10ae5189fe9"
+  },
+  {
+    "name": "NET Exams & Teacher Training - UGC NET",
+    "id": "65265641f61cb30018331407"
+  },
+  {
+    "name": "NET Exams & Teacher Training - CSIR NET",
+    "id": "6513cc40c01d6000180e314a"
+  },
+  {
+    "name": "NET Exams & Teacher Training - Teacher Training",
+    "id": "6536229779a65f001869bf1f"
+  },
+  {
+    "name": "Earners ( Upskilling ) - PC Courses",
+    "id": "69d8e0fab529696638715f98"
+  },
+  {
+    "name": "Earners ( Upskilling ) - Mobile Courses",
+    "id": "69d8e2b38fedc59585c5fc4e"
+  },
+  {
+    "name": "Spoken English",
+    "id": "696783258907e370f31921ab"
+  },
+  {
+    "name": "Gyaan-E (Short-Courses)",
+    "id": "6a27f28307c811259a0ef656"
+  },
+  {
+    "name": "M.A.D (Music, Art & Dance). - Music",
+    "id": "6a1ed8d24cb45d016a62d202"
+  },
+  {
+    "name": "M.A.D (Music, Art & Dance). - Art",
+    "id": "6a1edbddc9f79437a29ef5ff"
+  },
+  {
+    "name": "M.A.D (Music, Art & Dance). - Dance",
+    "id": "6a1edbdebc621bbd798841bc"
+  },
+  {
+    "name": "Online Degree",
+    "id": "66836f7550d3fecbfbcb135a"
+  },
+  {
+    "name": "Study Abroad & Career Abroad - TOEFL",
+    "id": "6657517f9b0f890018335323"
+  },
+  {
+    "name": "Study Abroad & Career Abroad - Acadfly Study Abroad",
+    "id": "66ffaafbf3a7272474d076e3"
+  },
+  {
+    "name": "PW IOI (College)",
+    "id": "69d770d7ef50efd0c12345c6"
+  },
+  {
+    "name": "Semester Prep - B.Sc",
+    "id": "6a05854d1ebb9c88791d4936"
+  },
+  {
+    "name": "Semester Prep - B.Com",
+    "id": "6a0585d6d0d76c6f71e38b9d"
+  },
+  {
+    "name": "Skills - Data Science",
+    "id": "65b95ed8bf30e60018c1ea97"
+  },
+  {
+    "name": "Skills - Digital Marketing with AI",
+    "id": "68a8243c5ac61e856be41a78"
+  },
+  {
+    "name": "Skills - Software Development",
+    "id": "63a73418c3f6620018a93465"
+  },
+  {
+    "name": "Skills - Certifications - Banking",
+    "id": "65b95f8029c2850018459867"
+  },
+  {
+    "name": "Skills - Health Care Skills - OTT, MLT",
+    "id": "66839a6cf684efe056677aba"
+  },
+  {
+    "name": "Skills - Teacher Training Program",
+    "id": "6536229779a65f001869bf1f"
+  },
+  {
+    "name": "Skills - IIT Online Courses",
+    "id": "67af01a2d4c1b0437b251409"
+  },
+  {
+    "name": "Skills - IIM Online Courses",
+    "id": "67af0244af0dc1994bf465f8"
+  },
+  {
+    "name": "Skills - Legal Skills",
+    "id": "686f4d9ba837351fc05868b8"
+  },
+  {
+    "name": "Skills - Urban Management",
+    "id": "69b7c7d19b956c9f8eda6368"
+  }
+]
