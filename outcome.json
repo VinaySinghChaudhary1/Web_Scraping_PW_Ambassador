@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01 17:24:25",
+  "timestamp": "2026-07-01 17:59:29",
   "categories": {
     "IIT-JEE - Class 11": [
       {
@@ -1486,8 +1486,8 @@
         "batch_type": "BATCH",
         "language": "Hinglish",
         "price": "3499",
-        "discount": "36",
-        "total": "2249",
+        "discount": "29",
+        "total": "2499",
         "description": "SSC | Started on 18th Jun’26"
       },
       {
@@ -1546,8 +1546,8 @@
         "batch_type": "BATCH",
         "language": "Hinglish",
         "price": "3499",
-        "discount": "36",
-        "total": "2249",
+        "discount": "29",
+        "total": "2499",
         "description": "SSC | Started on 18th Jun’26"
       },
       {
@@ -2220,8 +2220,8 @@
         "batch_type": "BATCH",
         "language": "Hinglish",
         "price": "3499",
-        "discount": "36",
-        "total": "2249",
+        "discount": "29",
+        "total": "2499",
         "description": "SSC | Started on 18th Jun’26"
       },
       {
@@ -2280,8 +2280,8 @@
         "batch_type": "BATCH",
         "language": "Hinglish",
         "price": "3499",
-        "discount": "36",
-        "total": "2249",
+        "discount": "29",
+        "total": "2499",
         "description": "SSC | Started on 18th Jun’26"
       },
       {
@@ -3351,90 +3351,6 @@
         "description": "Teaching Exams | Access to All Teaching Course"
       },
       {
-        "title": "CTET PREMIUM INFINITY 2.0 SEP 2026 PAPER 1",
-        "mode": "ONLINE",
-        "target_year": "Teaching Exams",
-        "course_type": "CTET",
-        "batch_type": "BATCH",
-        "language": "Hinglish",
-        "price": "3499",
-        "discount": "63",
-        "total": "1299",
-        "description": "Teaching Exams | Started on 10th Jun’26"
-      },
-      {
-        "title": "CTET PREMIUM INFINITY 2.0 SEP 2026 PAPER 2 MATH & SCIENCE",
-        "mode": "ONLINE",
-        "target_year": "Teaching Exams",
-        "course_type": "CTET",
-        "batch_type": "BATCH",
-        "language": "Hinglish",
-        "price": "3999",
-        "discount": "63",
-        "total": "1499",
-        "description": "Teaching Exams | Started on 10th Jun’26"
-      },
-      {
-        "title": "CTET PREMIUM COMBO 3.0 SEP 2026 PAPER 1 & PAPER 2 MATH & SCIENCE",
-        "mode": "ONLINE",
-        "target_year": "CTET",
-        "course_type": "Teaching",
-        "batch_type": "BATCH",
-        "language": "Hinglish",
-        "price": "3339",
-        "discount": "63",
-        "total": "1249",
-        "description": "CTET | Starts on 9th Jul’26"
-      },
-      {
-        "title": "CTET PREMIUM COMBO 3.0 SEP 2026 PAPER 1 & PAPER 2 SST",
-        "mode": "ONLINE",
-        "target_year": "CTET",
-        "course_type": "Teaching",
-        "batch_type": "BATCH",
-        "language": "Hinglish",
-        "price": "3339",
-        "discount": "63",
-        "total": "1249",
-        "description": "CTET | Starts on 9th Jul’26"
-      },
-      {
-        "title": "CTET PREMIUM 3.0 SEP 2026 PAPER 1",
-        "mode": "ONLINE",
-        "target_year": "CTET",
-        "course_type": "Teaching",
-        "batch_type": "BATCH",
-        "language": "Hinglish",
-        "price": "1999",
-        "discount": "63",
-        "total": "749",
-        "description": "CTET | Starts on 9th Jul’26"
-      },
-      {
-        "title": "CTET PREMIUM 3.0 SEP 2026 PAPER 2 MATH & SCIENCE",
-        "mode": "ONLINE",
-        "target_year": "CTET",
-        "course_type": "Teaching",
-        "batch_type": "BATCH",
-        "language": "Hinglish",
-        "price": "2599",
-        "discount": "63",
-        "total": "949",
-        "description": "CTET | Starts on 9th Jul’26"
-      },
-      {
-        "title": "CTET PREMIUM 3.0 SEP 2026 PAPER 2 SST",
-        "mode": "ONLINE",
-        "target_year": "CTET",
-        "course_type": "Teaching",
-        "batch_type": "BATCH",
-        "language": "Hinglish",
-        "price": "2599",
-        "discount": "63",
-        "total": "949",
-        "description": "CTET | Starts on 9th Jul’26"
-      },
-      {
         "title": "CTET PREMIUM INFINITY 3.0 SEP 2026 PAPER 1",
         "mode": "ONLINE",
         "target_year": "CTET",
@@ -3495,6 +3411,102 @@
         "description": "CTET | Starts on 9th Jul’26"
       },
       {
+        "title": "DSSSB TGT Computer Science 2026",
+        "mode": "ONLINE",
+        "target_year": "Teaching Exams",
+        "course_type": "DSSSB",
+        "batch_type": "BATCH",
+        "language": "Hinglish",
+        "price": "4799",
+        "discount": "67",
+        "total": "1599",
+        "description": "Teaching Exams | Started on 22nd Jun’26"
+      },
+      {
+        "title": "CTET PREMIUM 3.0 SEP 2026 PAPER 1",
+        "mode": "ONLINE",
+        "target_year": "CTET",
+        "course_type": "Teaching",
+        "batch_type": "BATCH",
+        "language": "Hinglish",
+        "price": "1999",
+        "discount": "63",
+        "total": "749",
+        "description": "CTET | Starts on 9th Jul’26"
+      },
+      {
+        "title": "CTET PREMIUM 3.0 SEP 2026 PAPER 2 MATH & SCIENCE",
+        "mode": "ONLINE",
+        "target_year": "CTET",
+        "course_type": "Teaching",
+        "batch_type": "BATCH",
+        "language": "Hinglish",
+        "price": "2599",
+        "discount": "63",
+        "total": "949",
+        "description": "CTET | Starts on 9th Jul’26"
+      },
+      {
+        "title": "CTET PREMIUM 3.0 SEP 2026 PAPER 2 SST",
+        "mode": "ONLINE",
+        "target_year": "CTET",
+        "course_type": "Teaching",
+        "batch_type": "BATCH",
+        "language": "Hinglish",
+        "price": "2599",
+        "discount": "63",
+        "total": "949",
+        "description": "CTET | Starts on 9th Jul’26"
+      },
+      {
+        "title": "CTET PREMIUM COMBO 3.0 SEP 2026 PAPER 1 & PAPER 2 SST",
+        "mode": "ONLINE",
+        "target_year": "CTET",
+        "course_type": "Teaching",
+        "batch_type": "BATCH",
+        "language": "Hinglish",
+        "price": "3339",
+        "discount": "63",
+        "total": "1249",
+        "description": "CTET | Starts on 9th Jul’26"
+      },
+      {
+        "title": "CTET PREMIUM COMBO 3.0 SEP 2026 PAPER 1 & PAPER 2 MATH & SCIENCE",
+        "mode": "ONLINE",
+        "target_year": "CTET",
+        "course_type": "Teaching",
+        "batch_type": "BATCH",
+        "language": "Hinglish",
+        "price": "3339",
+        "discount": "63",
+        "total": "1249",
+        "description": "CTET | Starts on 9th Jul’26"
+      },
+      {
+        "title": "CTET PREMIUM INFINITY 2.0 SEP 2026 PAPER 1",
+        "mode": "ONLINE",
+        "target_year": "Teaching Exams",
+        "course_type": "CTET",
+        "batch_type": "BATCH",
+        "language": "Hinglish",
+        "price": "3499",
+        "discount": "63",
+        "total": "1299",
+        "description": "Teaching Exams | Started on 10th Jun’26"
+      },
+      {
+        "title": "CTET PREMIUM INFINITY 2.0 SEP 2026 PAPER 2 MATH & SCIENCE",
+        "mode": "ONLINE",
+        "target_year": "Teaching Exams",
+        "course_type": "CTET",
+        "batch_type": "BATCH",
+        "language": "Hinglish",
+        "price": "3999",
+        "discount": "63",
+        "total": "1499",
+        "description": "Teaching Exams | Started on 10th Jun’26"
+      },
+      {
         "title": "CTET PREMIUM INFINITY 2.0 PAPER 2 SST SEP 2026",
         "mode": "ONLINE",
         "target_year": "Teaching Exams",
@@ -3517,18 +3529,6 @@
         "discount": "50",
         "total": "499",
         "description": "Teaching Exams | Started on 25th May’26"
-      },
-      {
-        "title": "DSSSB TGT Computer Science 2026",
-        "mode": "ONLINE",
-        "target_year": "Teaching Exams",
-        "course_type": "DSSSB",
-        "batch_type": "BATCH",
-        "language": "Hinglish",
-        "price": "4799",
-        "discount": "67",
-        "total": "1599",
-        "description": "Teaching Exams | Started on 22nd Jun’26"
       },
       {
         "title": "CTET PREMIUM COMBO INFINTY 2.0 SEP 2026 (Paper 1 & Paper 2 Maths & Science)",
@@ -4151,7 +4151,7 @@
         "description": "Banking Exams | Started on 29th Jun’26"
       },
       {
-        "title": "Ultimate SBI PO/Clerk Selection Batch 2026",
+        "title": "Ultimate SBI/IBPS PO+Clerk Selection Batch 2026",
         "mode": "ONLINE",
         "target_year": "Banking",
         "course_type": "Banking",

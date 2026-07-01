@@ -113,3 +113,12 @@ The generated tables in `outcome.md` list all the courses with their respective 
 | **UPSC PRARAMBH 2029** | ONLINE | UPSC_2029 | Foundation | BATCH | Hinglish | ₹48999 | 33% | ₹32999 | UPSC_2029 \| Started on 22nd Jun’26 |
 | **Sankalp 2.0 Hinglish 2028** | ONLINE | UPSC 2028 | Foundation | BATCH | Hinglish | ₹21999 | 36% | ₹13999 | UPSC 2028 \| Started on 29th Jun’26 |
 | **Prahar 3.0 Hinglish 2027** | ONLINE | UPSC 2027 | Foundation | BATCH | Hinglish | ₹18999 | 37% | ₹11999 | UPSC 2027 \| Started on 18th Jun’26 |
+
+---
+
+## ✍️ Author & Developer
+
+This project was designed, engineered, and developed by **Vinay Singh Chaudhary**.
+
+Built with a vision to automate student intake operations, map target cohorts dynamically, and streamline ambassador promotions, this scraper and dynamic form-generation system serves as a premium, end-to-end automation toolkit.
+

@@ -85,8 +85,21 @@ function createPWAmbassadorFormV4() {
     
   form.addTextItem().setTitle('City & State').setRequired(true);
 
+  // 2.5 Optional Intake Path Selector with Promotion Description
+  var pathQuestion = form.addMultipleChoiceItem()
+    .setTitle('Would you like to explore course batches and unlock exclusive ambassador discounts now?')
+    .setHelpText('💡 Unlock Exclusive Ambassador Discounts: You can submit your basic details now. However, if you proceed to select your course and mode of learning, you will immediately unlock exclusive ambassador discount credentials (up to 35%+ OFF) and jump the counseling queue!')
+    .setRequired(true);
+
   // 3. Category Page Setup
   var categoryPage = form.addPageBreakItem().setTitle('Choose Your Target Course Category');
+  
+  // Link pathQuestion choices to submit or Category Page
+  pathQuestion.setChoices([
+    pathQuestion.createChoice('Yes, explore available courses and unlock ambassador discount credentials! 🚀', categoryPage),
+    pathQuestion.createChoice('No, just submit my basic registration details for now. 📋', FormApp.PageNavigationType.SUBMIT)
+  ]);
+
   var categoryQuestion = form.addMultipleChoiceItem()
     .setTitle('Select your target Category:')
     .setRequired(true);

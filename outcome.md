@@ -1,6 +1,6 @@
 # PW Ambassador Scraped Course Batches (All Categories)
 
-**Date:** 2026-07-01 17:24:25  
+**Date:** 2026-07-01 17:59:29  
 **Method:** DIRECT_API  
 
 ## Category Scrape Summary
@@ -217,12 +217,12 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Surya 3.0 SSC CGL Target 2026 | ONLINE | SSC CGL | SSC | BATCH | Hinglish | ₹1699 | 41% | ₹999 | SSC CGL | Starts on 6th Jul’26 |
 | SSC CGL Mahapack | ONLINE | SSC CGL | SSC CGL | BATCH | Hinglish | ₹3499 | 37% | ₹2199 | SSC CGL | Access to SSC CGL Courses | 9, 12 & 24 Month Plans Available |
-| SAFAR 3.0 SSC CGL | CHSL 2027 with English Books | ONLINE | SSC | SSC CGL,CHSL | BATCH | Hinglish | ₹3499 | 36% | ₹2249 | SSC | Started on 18th Jun’26 |
+| SAFAR 3.0 SSC CGL | CHSL 2027 with English Books | ONLINE | SSC | SSC CGL,CHSL | BATCH | Hinglish | ₹3499 | 29% | ₹2499 | SSC | Started on 18th Jun’26 |
 | SSC Mahapack Pro | ONLINE | SSC Exams | SSC | BATCH | Hinglish | ₹6249 | 52% | ₹2999 | SSC Exams | Access to all SSC Courses |
 | Kamyabi 3.0 SSC CHSL Target 2026 | ONLINE | SSC CHSL | SSC CHSL | BATCH | Hinglish | ₹1999 | 38% | ₹1249 | SSC CHSL | Started on 24th Jun’26 |
 | Surya 2.0 SSC CGL Target 2026 | ONLINE | SSC CGL | SSC CGL | BATCH | Hinglish | ₹1699 | 41% | ₹999 | SSC CGL | Started on 17th Jun’26 |
 | SSC CHSL Mahapack | ONLINE | SSC CHSL | SSC CHSL | BATCH | Hinglish | ₹2999 | 33% | ₹1999 | SSC CHSL | Access to SSC CHSL Courses | 9, 12 & 24 Month Plans Available |
-| SAFAR 3.0 SSC CGL | CHSL 2027 with Hindi Books | ONLINE | SSC | SSC CGL,CHSL | BATCH | Hinglish | ₹3499 | 36% | ₹2249 | SSC | Started on 18th Jun’26 |
+| SAFAR 3.0 SSC CGL | CHSL 2027 with Hindi Books | ONLINE | SSC | SSC CGL,CHSL | BATCH | Hinglish | ₹3499 | 29% | ₹2499 | SSC | Started on 18th Jun’26 |
 | Akshay SSC Stenographer 2026 | ONLINE | Steno | Steno | BATCH | Hinglish | ₹2499 | 60% | ₹999 | Steno | Started on 4th May’26 |
 | Vishwas SSC GD 2027 | ONLINE | SSC GD | SSC GD | BATCH | Hinglish | ₹999 | 40% | ₹599 | SSC GD | Started on 15th Jun’26 |
 | Karmath SSC MTS/Havaldar 2026 | ONLINE | SSC MTS | SSC MTS | BATCH | Hinglish | ₹999 | 40% | ₹599 | SSC MTS | Started on 15th Jun’26 |
@@ -315,12 +315,12 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Surya 3.0 SSC CGL Target 2026 | ONLINE | SSC CGL | SSC | BATCH | Hinglish | ₹1699 | 41% | ₹999 | SSC CGL | Starts on 6th Jul’26 |
 | SSC CGL Mahapack | ONLINE | SSC CGL | SSC CGL | BATCH | Hinglish | ₹3499 | 37% | ₹2199 | SSC CGL | Access to SSC CGL Courses | 9, 12 & 24 Month Plans Available |
-| SAFAR 3.0 SSC CGL | CHSL 2027 with English Books | ONLINE | SSC | SSC CGL,CHSL | BATCH | Hinglish | ₹3499 | 36% | ₹2249 | SSC | Started on 18th Jun’26 |
+| SAFAR 3.0 SSC CGL | CHSL 2027 with English Books | ONLINE | SSC | SSC CGL,CHSL | BATCH | Hinglish | ₹3499 | 29% | ₹2499 | SSC | Started on 18th Jun’26 |
 | SSC Mahapack Pro | ONLINE | SSC Exams | SSC | BATCH | Hinglish | ₹6249 | 52% | ₹2999 | SSC Exams | Access to all SSC Courses |
 | Kamyabi 3.0 SSC CHSL Target 2026 | ONLINE | SSC CHSL | SSC CHSL | BATCH | Hinglish | ₹1999 | 38% | ₹1249 | SSC CHSL | Started on 24th Jun’26 |
 | Surya 2.0 SSC CGL Target 2026 | ONLINE | SSC CGL | SSC CGL | BATCH | Hinglish | ₹1699 | 41% | ₹999 | SSC CGL | Started on 17th Jun’26 |
 | SSC CHSL Mahapack | ONLINE | SSC CHSL | SSC CHSL | BATCH | Hinglish | ₹2999 | 33% | ₹1999 | SSC CHSL | Access to SSC CHSL Courses | 9, 12 & 24 Month Plans Available |
-| SAFAR 3.0 SSC CGL | CHSL 2027 with Hindi Books | ONLINE | SSC | SSC CGL,CHSL | BATCH | Hinglish | ₹3499 | 36% | ₹2249 | SSC | Started on 18th Jun’26 |
+| SAFAR 3.0 SSC CGL | CHSL 2027 with Hindi Books | ONLINE | SSC | SSC CGL,CHSL | BATCH | Hinglish | ₹3499 | 29% | ₹2499 | SSC | Started on 18th Jun’26 |
 | Akshay SSC Stenographer 2026 | ONLINE | Steno | Steno | BATCH | Hinglish | ₹2499 | 60% | ₹999 | Steno | Started on 4th May’26 |
 | Vishwas SSC GD 2027 | ONLINE | SSC GD | SSC GD | BATCH | Hinglish | ₹999 | 40% | ₹599 | SSC GD | Started on 15th Jun’26 |
 | Karmath SSC MTS/Havaldar 2026 | ONLINE | SSC MTS | SSC MTS | BATCH | Hinglish | ₹999 | 40% | ₹599 | SSC MTS | Started on 15th Jun’26 |
@@ -434,21 +434,21 @@
 | Course Title | Mode | Target Year | Course Type | Batch Type | Language | Original Price | Discount | Offer Price | Description / Info |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Teaching Mahapack | ONLINE | Teaching Exams | Teaching | BATCH | Hinglish | ₹12999 | 81% | ₹2499 | Teaching Exams | Access to All Teaching Course |
-| CTET PREMIUM INFINITY 2.0 SEP 2026 PAPER 1 | ONLINE | Teaching Exams | CTET | BATCH | Hinglish | ₹3499 | 63% | ₹1299 | Teaching Exams | Started on 10th Jun’26 |
-| CTET PREMIUM INFINITY 2.0 SEP 2026 PAPER 2 MATH & SCIENCE | ONLINE | Teaching Exams | CTET | BATCH | Hinglish | ₹3999 | 63% | ₹1499 | Teaching Exams | Started on 10th Jun’26 |
-| CTET PREMIUM COMBO 3.0 SEP 2026 PAPER 1 & PAPER 2 MATH & SCIENCE | ONLINE | CTET | Teaching | BATCH | Hinglish | ₹3339 | 63% | ₹1249 | CTET | Starts on 9th Jul’26 |
-| CTET PREMIUM COMBO 3.0 SEP 2026 PAPER 1 & PAPER 2 SST | ONLINE | CTET | Teaching | BATCH | Hinglish | ₹3339 | 63% | ₹1249 | CTET | Starts on 9th Jul’26 |
-| CTET PREMIUM 3.0 SEP 2026 PAPER 1 | ONLINE | CTET | Teaching | BATCH | Hinglish | ₹1999 | 63% | ₹749 | CTET | Starts on 9th Jul’26 |
-| CTET PREMIUM 3.0 SEP 2026 PAPER 2 MATH & SCIENCE | ONLINE | CTET | Teaching | BATCH | Hinglish | ₹2599 | 63% | ₹949 | CTET | Starts on 9th Jul’26 |
-| CTET PREMIUM 3.0 SEP 2026 PAPER 2 SST | ONLINE | CTET | Teaching | BATCH | Hinglish | ₹2599 | 63% | ₹949 | CTET | Starts on 9th Jul’26 |
 | CTET PREMIUM INFINITY 3.0 SEP 2026 PAPER 1 | ONLINE | CTET | Teaching | BATCH | Hinglish | ₹3499 | 63% | ₹1299 | CTET | Starts on 9th Jul’26 |
 | CTET PREMIUM INFINITY 3.0 SEP 2026 PAPER 2 MATH & SCIENCE | ONLINE | CTET | Teaching | BATCH | Hinglish | ₹3999 | 63% | ₹1499 | CTET | Starts on 9th Jul’26 |
 | CTET PREMIUM INFINITY 3.0 SEP 2026 PAPER 2 SST | ONLINE | CTET | Teaching | BATCH | Hinglish | ₹3999 | 63% | ₹1499 | CTET | Starts on 9th Jul’26 |
 | CTET PREMIUM COMBO INFINITY 3.0 SEP 2026 PAPER 1 & PAPER 2 SST | ONLINE | CTET | Teaching | BATCH | Hinglish | ₹4799 | 63% | ₹1799 | CTET | Starts on 9th Jul’26 |
 | CTET PREMIUM COMBO INFINITY 3.0 SEP 2026 PAPER 1 & PAPER 2 MATH & SCIENCE | ONLINE | CTET | Teaching | BATCH | Hinglish | ₹4799 | 63% | ₹1799 | CTET | Starts on 9th Jul’26 |
+| DSSSB TGT Computer Science 2026 | ONLINE | Teaching Exams | DSSSB | BATCH | Hinglish | ₹4799 | 67% | ₹1599 | Teaching Exams | Started on 22nd Jun’26 |
+| CTET PREMIUM 3.0 SEP 2026 PAPER 1 | ONLINE | CTET | Teaching | BATCH | Hinglish | ₹1999 | 63% | ₹749 | CTET | Starts on 9th Jul’26 |
+| CTET PREMIUM 3.0 SEP 2026 PAPER 2 MATH & SCIENCE | ONLINE | CTET | Teaching | BATCH | Hinglish | ₹2599 | 63% | ₹949 | CTET | Starts on 9th Jul’26 |
+| CTET PREMIUM 3.0 SEP 2026 PAPER 2 SST | ONLINE | CTET | Teaching | BATCH | Hinglish | ₹2599 | 63% | ₹949 | CTET | Starts on 9th Jul’26 |
+| CTET PREMIUM COMBO 3.0 SEP 2026 PAPER 1 & PAPER 2 SST | ONLINE | CTET | Teaching | BATCH | Hinglish | ₹3339 | 63% | ₹1249 | CTET | Starts on 9th Jul’26 |
+| CTET PREMIUM COMBO 3.0 SEP 2026 PAPER 1 & PAPER 2 MATH & SCIENCE | ONLINE | CTET | Teaching | BATCH | Hinglish | ₹3339 | 63% | ₹1249 | CTET | Starts on 9th Jul’26 |
+| CTET PREMIUM INFINITY 2.0 SEP 2026 PAPER 1 | ONLINE | Teaching Exams | CTET | BATCH | Hinglish | ₹3499 | 63% | ₹1299 | Teaching Exams | Started on 10th Jun’26 |
+| CTET PREMIUM INFINITY 2.0 SEP 2026 PAPER 2 MATH & SCIENCE | ONLINE | Teaching Exams | CTET | BATCH | Hinglish | ₹3999 | 63% | ₹1499 | Teaching Exams | Started on 10th Jun’26 |
 | CTET PREMIUM INFINITY 2.0 PAPER 2 SST SEP 2026 | ONLINE | Teaching Exams | CTET | BATCH | Hinglish | ₹3999 | 63% | ₹1499 | Teaching Exams | Started on 10th Jun’26 |
 | UPTET Revision+Practice Batch 2026 Paper 1 & Paper 2 | ONLINE | Teaching Exams | UP_Exams | BATCH | Hinglish | ₹999 | 50% | ₹499 | Teaching Exams | Started on 25th May’26 |
-| DSSSB TGT Computer Science 2026 | ONLINE | Teaching Exams | DSSSB | BATCH | Hinglish | ₹4799 | 67% | ₹1599 | Teaching Exams | Started on 22nd Jun’26 |
 | CTET PREMIUM COMBO INFINTY 2.0 SEP 2026 (Paper 1 & Paper 2 Maths & Science) | ONLINE | Teaching Exams | CTET | BATCH | Hinglish | ₹4799 | 63% | ₹1799 | Teaching Exams | Started on 10th Jun’26 |
 | CTET PREMIUM COMBO INFINITY 2.0 SEP 2026 (Paper 1 & Paper 2 SST) | ONLINE | Teaching Exams | CTET | BATCH | Hinglish | ₹4799 | 63% | ₹1799 | Teaching Exams | Started on 10th Jun’26 |
 | CTET PREMIUM 2.0 SEP 2026 PAPER 1 | ONLINE | Teaching Exams | CTET | BATCH | Hinglish | ₹1999 | 63% | ₹749 | Teaching Exams | Started on 10th Jun’26 |
@@ -520,7 +520,7 @@
 | Bank Mahapack | ONLINE | Banking Exams | Banking | BATCH | Hinglish | ₹4999 | 40% | ₹2999 | Banking Exams | For ALL Bank exams |
 | Bank SSC Mahapack | ONLINE | Banking Exams | Bank SSC | BATCH | Hinglish | ₹11499 | 63% | ₹4299 | Banking Exams | For all Bank & SSC exams |
 | AIM Prime Foundation Batch for All Banking Exams | ONLINE | Banking Exams | Banking | BATCH | Hinglish | ₹3999 | 38% | ₹2499 | Banking Exams | Started on 29th Jun’26 |
-| Ultimate SBI PO/Clerk Selection Batch 2026 | ONLINE | Banking | Banking | BATCH | Hinglish | ₹3499 | 49% | ₹1799 | Banking | Started on 12th Jun’26 |
+| Ultimate SBI/IBPS PO+Clerk Selection Batch 2026 | ONLINE | Banking | Banking | BATCH | Hinglish | ₹3499 | 49% | ₹1799 | Banking | Started on 12th Jun’26 |
 | Ved Prime Batch for All Banking Exams 2026-27 | ONLINE | Banking Exams | Banking | BATCH | Hinglish | ₹4499 | 42% | ₹2599 | Banking Exams | Started on 8th Jun’26 |
 | AIM Clerk Foundation for IBPS/SBI Clerk Exams | ONLINE | SBI Clerk | Foundation | BATCH | Hinglish | ₹3599 | 44% | ₹1999 | SBI Clerk | Started on 29th Jun’26 |
 | Rudra Prime Batch for Bank PO/Clerk exams | ONLINE | Banking Exams | PO,_Clerk | BATCH | Hinglish | ₹7999 | 68% | ₹2599 | Banking Exams | Started on 4th May’26 |
