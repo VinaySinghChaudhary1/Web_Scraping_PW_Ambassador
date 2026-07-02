@@ -24,7 +24,7 @@ function createPWAmbassadorFormV4() {
   // Form Configuration Settings
   form.setLimitOneResponsePerUser(false); // Allow multiple submissions
   form.setAllowResponseEdits(true);        // Allow editing response after submitting
-  form.setCollectEmails(true);            // Collect student email addresses
+  form.setCollectEmail(true);            // Collect student email addresses
 
   form.setDescription('📋 Official Student Intake & Course Mapping Form\n' +
                       'Physics Wallah Campus Ambassador Program\n\n' +
@@ -639,7 +639,7 @@ function createPWAmbassadorFormV4() {
   var coursePage_11_1 = form.addPageBreakItem().setTitle('College Entrance Exams ( UG & PG ) - CAT | ONLINE (Hinglish) Courses');
   form.addCheckboxItem()
     .setTitle('Select one or more courses to register for:')
-    .setChoiceValues(["MBA IGNITE 2026 (CAT + OMETs) (Price: Rs. 6999 | Rs. 14999 53% OFF)", "MBA ELITE WEEKEND 2026 (CAT + OMETs) (Price: Rs. 7999 | Rs. 14999 47% OFF)", "MBA Pro 2026 (CAT + OMETs) (Price: Rs. 11999 | Rs. 27999 57% OFF)", "MBA ELITE 2026 (CAT + OMETs) (Price: Rs. 7999 | Rs. 14999 47% OFF)", "MBA PIONEER 2026 (CAT + OMETs) (Price: Rs. 7999 | Rs. 15999 50% OFF)", "MBA Core 2026 (Foundation + CAT & OMETs) (Price: Rs. 8999 | Rs. 15999 44% OFF)", "Other (Please specify below)"])
+    .setChoiceValues(["MBA IGNITE 2026 (CAT + OMETs) (Price: Rs. 6999 | Rs. 14999 53% OFF)", "MBA ELITE WEEKEND 2026 (CAT + OMETs) (Price: Rs. 5999 | Rs. 14999 60% OFF)", "MBA Pro 2026 (CAT + OMETs) (Price: Rs. 11999 | Rs. 27999 57% OFF)", "MBA ELITE 2026 (CAT + OMETs) (Price: Rs. 5999 | Rs. 14999 60% OFF)", "MBA PIONEER 2026 (CAT + OMETs) (Price: Rs. 5999 | Rs. 15999 63% OFF)", "MBA Core 2026 (Foundation + CAT & OMETs) (Price: Rs. 5999 | Rs. 15999 63% OFF)", "Other (Please specify below)"])
     .setRequired(true);
   form.addTextItem().setTitle('If you chose Other, enter the Course/Batch Name here:');
   mlQuestion_11.setChoices([
@@ -930,7 +930,7 @@ function createPWAmbassadorFormV4() {
   var coursePage_31_0 = form.addPageBreakItem().setTitle('Online Degree | ONLINE (Hinglish) Courses');
   form.addCheckboxItem()
     .setTitle('Select one or more courses to register for:')
-    .setChoiceValues(["MBA PIONEER 2026 (CAT + OMETs) (Price: Rs. 7999 | Rs. 15999 50% OFF)", "Personality Development Programme (Price: Rs. 10000 | Rs. 20000 50% OFF)", "Other (Please specify below)"])
+    .setChoiceValues(["MBA PIONEER 2026 (CAT + OMETs) (Price: Rs. 5999 | Rs. 15999 63% OFF)", "Personality Development Programme (Price: Rs. 10000 | Rs. 20000 50% OFF)", "Other (Please specify below)"])
     .setRequired(true);
   form.addTextItem().setTitle('If you chose Other, enter the Course/Batch Name here:');
   var coursePage_31_1 = form.addPageBreakItem().setTitle('Online Degree | ONLINE (English) Courses');

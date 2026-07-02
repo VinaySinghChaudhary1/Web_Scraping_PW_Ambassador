@@ -62,7 +62,7 @@ function createPWAmbassadorFormV4() {
   // Form Configuration Settings
   form.setLimitOneResponsePerUser(false); // Allow multiple submissions
   form.setAllowResponseEdits(true);        // Allow editing response after submitting
-  form.setCollectEmails(true);            // Collect student email addresses
+  form.setCollectEmail(true);            // Collect student email addresses
 
   form.setDescription('📋 Official Student Intake & Course Mapping Form\\n' +
                       'Physics Wallah Campus Ambassador Program\\n\\n' +

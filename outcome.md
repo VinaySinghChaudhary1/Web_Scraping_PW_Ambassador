@@ -1,6 +1,6 @@
 # PW Ambassador Scraped Course Batches (All Categories)
 
-**Date:** 2026-07-02 11:27:47  
+**Date:** 2026-07-02 11:55:51  
 **Method:** DIRECT_API  
 
 ## Category Scrape Summary
@@ -302,12 +302,12 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MBA IGNITE 2026 (CAT + OMETs) (ENGLISH) | ONLINE | CAT+OMETS | CAT + OMETS | BATCH | English | ₹14999 | 53% | ₹6999 | CAT+OMETS | Starts on 6th Jul’26 |
 | MBA IGNITE 2026 (CAT + OMETs) | ONLINE | CAT+OMETS | CAT + OMETS | BATCH | Hinglish | ₹14999 | 53% | ₹6999 | CAT+OMETS | Started on 8th Jun’26 |
-| MBA ELITE WEEKEND 2026 (CAT + OMETs) | ONLINE | CAT+OMETS | CAT + OMETS | BATCH | Hinglish | ₹14999 | 47% | ₹7999 | CAT+OMETS | Started on 9th May’26 |
+| MBA ELITE WEEKEND 2026 (CAT + OMETs) | ONLINE | CAT+OMETS | CAT + OMETS | BATCH | Hinglish | ₹14999 | 60% | ₹5999 | CAT+OMETS | Started on 9th May’26 |
 | MBA PIONEER 2026 (CAT + OMETs) (ENGLISH) | ONLINE | CAT+OMETS | CAT + OMETS | BATCH | English | ₹14999 | 60% | ₹5999 | CAT+OMETS | Started on 6th Apr’26 |
 | MBA Pro 2026 (CAT + OMETs) | ONLINE | CAT+OMETS | CAT + OMETS | BATCH | Hinglish | ₹27999 | 57% | ₹11999 | CAT+OMETS | Started on 13th Oct’25 |
-| MBA ELITE 2026 (CAT + OMETs) | ONLINE | CAT+OMETS | CAT + OMETS | BATCH | Hinglish | ₹14999 | 47% | ₹7999 | CAT+OMETS | Started on 16th Feb’26 |
-| MBA PIONEER 2026 (CAT + OMETs) | ONLINE | CAT+OMETS | CAT + OMETS | BATCH | Hinglish | ₹15999 | 50% | ₹7999 | CAT+OMETS | Started on 15th Dec’25 |
-| MBA Core 2026 (Foundation + CAT & OMETs) | ONLINE | CAT+OMETS | CAT + OMETS | BATCH | Hinglish | ₹15999 | 44% | ₹8999 | CAT+OMETS | Started on 13th Oct’25 |
+| MBA ELITE 2026 (CAT + OMETs) | ONLINE | CAT+OMETS | CAT + OMETS | BATCH | Hinglish | ₹14999 | 60% | ₹5999 | CAT+OMETS | Started on 16th Feb’26 |
+| MBA PIONEER 2026 (CAT + OMETs) | ONLINE | CAT+OMETS | CAT + OMETS | BATCH | Hinglish | ₹15999 | 63% | ₹5999 | CAT+OMETS | Started on 15th Dec’25 |
+| MBA Core 2026 (Foundation + CAT & OMETs) | ONLINE | CAT+OMETS | CAT + OMETS | BATCH | Hinglish | ₹15999 | 63% | ₹5999 | CAT+OMETS | Started on 13th Oct’25 |
 
 ## All Government Job Exams - SSC (20 courses)
 
@@ -669,7 +669,7 @@
 
 | Course Title | Mode | Target Year | Course Type | Batch Type | Language | Original Price | Discount | Offer Price | Description / Info |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MBA PIONEER 2026 (CAT + OMETs) | ONLINE | CAT+OMETS | CAT + OMETS | BATCH | Hinglish | ₹15999 | 50% | ₹7999 | CAT+OMETS | Started on 15th Dec’25 |
+| MBA PIONEER 2026 (CAT + OMETs) | ONLINE | CAT+OMETS | CAT + OMETS | BATCH | Hinglish | ₹15999 | 63% | ₹5999 | CAT+OMETS | Started on 15th Dec’25 |
 | Professional Course On Communication and Behavior Skills | ONLINE | Online Degree | Career Development | BATCH | English | ₹10000 | 50% | ₹5000 | Online Degree | Started on 17th Oct’25 |
 | Personality Development Programme | ONLINE | Online Degree | Career Development | BATCH | Hinglish | ₹20000 | 50% | ₹10000 | Online Degree | Starts on 15th Jul’26 |
 

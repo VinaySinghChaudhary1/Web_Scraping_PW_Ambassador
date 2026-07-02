@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02 11:27:47",
+  "timestamp": "2026-07-02 11:55:51",
   "categories": {
     "IIT-JEE - Class 11": [
       {
@@ -2122,8 +2122,8 @@
         "batch_type": "BATCH",
         "language": "Hinglish",
         "price": "14999",
-        "discount": "47",
-        "total": "7999",
+        "discount": "60",
+        "total": "5999",
         "description": "CAT+OMETS | Started on 9th May’26"
       },
       {
@@ -2158,8 +2158,8 @@
         "batch_type": "BATCH",
         "language": "Hinglish",
         "price": "14999",
-        "discount": "47",
-        "total": "7999",
+        "discount": "60",
+        "total": "5999",
         "description": "CAT+OMETS | Started on 16th Feb’26"
       },
       {
@@ -2170,8 +2170,8 @@
         "batch_type": "BATCH",
         "language": "Hinglish",
         "price": "15999",
-        "discount": "50",
-        "total": "7999",
+        "discount": "63",
+        "total": "5999",
         "description": "CAT+OMETS | Started on 15th Dec’25"
       },
       {
@@ -2182,8 +2182,8 @@
         "batch_type": "BATCH",
         "language": "Hinglish",
         "price": "15999",
-        "discount": "44",
-        "total": "8999",
+        "discount": "63",
+        "total": "5999",
         "description": "CAT+OMETS | Started on 13th Oct’25"
       }
     ],
@@ -5225,8 +5225,8 @@
         "batch_type": "BATCH",
         "language": "Hinglish",
         "price": "15999",
-        "discount": "50",
-        "total": "7999",
+        "discount": "63",
+        "total": "5999",
         "description": "CAT+OMETS | Started on 15th Dec’25"
       },
       {
