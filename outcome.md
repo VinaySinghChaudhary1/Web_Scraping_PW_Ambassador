@@ -1,6 +1,6 @@
 # PW Ambassador Scraped Course Batches (All Categories)
 
-**Date:** 2026-07-02 11:55:51  
+**Date:** 2026-07-02 12:23:13  
 **Method:** DIRECT_API  
 
 ## Category Scrape Summary

@@ -333,19 +333,36 @@ function emailMeOnNewLead(e) {
     var courseList = chosenCourses.join(', ') || 'None selected (Basic Registration)';
 
     // Detect if this is an Edit or a New Submission
-    // If the difference between the submission timestamp and the current time is greater than 60 seconds, it is an Edit.
+    // We create/use a hidden 'Notification Status' column to save the true original submission time.
+    var statusCol = -1;
+    for (var i = 0; i < headers.length; i++) {
+      if (headers[i] === 'Notification Status') {
+        statusCol = i + 1; // 1-indexed
+        break;
+      }
+    }
+    if (statusCol === -1) {
+      statusCol = lastCol + 1;
+      sheet.getRange(1, statusCol).setValue('Notification Status');
+    }
+
+    var statusVal = rowValues[statusCol - 1]; // 0-indexed in rowValues array
     var isEdit = false;
     var isLateEdit = false;
-    var timestampVal = rowValues[0];
-    if (timestampVal) {
-      var parsedDate = (timestampVal instanceof Date) ? timestampVal : new Date(timestampVal);
-      if (!isNaN(parsedDate.getTime())) {
-        var diffMs = Math.abs(new Date().getTime() - parsedDate.getTime());
-        if (diffMs > 60000) { // 60 seconds threshold
-          isEdit = true;
-          if (diffMs > 30 * 60 * 1000) { // 30 minutes threshold
-            isLateEdit = true;
-          }
+    var nowTime = new Date().getTime();
+
+    if (!statusVal || String(statusVal).trim() === '') {
+      // First-time submission (New Lead)
+      sheet.getRange(rowNum, statusCol).setValue(String(nowTime));
+      isEdit = false;
+    } else {
+      // This row has been processed before, meaning the user edited their response
+      isEdit = true;
+      var originalTime = Number(statusVal);
+      if (!isNaN(originalTime)) {
+        var diffMs = Math.abs(nowTime - originalTime);
+        if (diffMs > 30 * 60 * 1000) { // 30 minutes threshold
+          isLateEdit = true;
         }
       }
     }
