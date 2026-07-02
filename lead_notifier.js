@@ -25,6 +25,7 @@ function emailMeOnNewLead(e) {
 
     // Extract fields by looping through headers and row values in parallel
     var name = 'N/A';
+    var email = 'N/A';
     var mobile = 'N/A';
     var whatsapp = 'N/A';
     var status = 'N/A';
@@ -45,9 +46,11 @@ function emailMeOnNewLead(e) {
       var strVal = String(val).trim();
       if (strVal === '') continue;
 
-      // Extract demographics
+      // Extract demographics & email
       if (header === 'Student Full Name') {
         name = strVal;
+      } else if (header === 'Email Address' || header === 'Username') {
+        email = strVal;
       } else if (header === 'Mobile Number (For Callback Verification)') {
         mobile = strVal;
       } else if (header === 'WhatsApp Number (If different from calling number)') {
@@ -85,6 +88,7 @@ function emailMeOnNewLead(e) {
     // Detect if this is an Edit or a New Submission
     // If the difference between the submission timestamp and the current time is greater than 60 seconds, it is an Edit.
     var isEdit = false;
+    var isLateEdit = false;
     var timestampVal = rowValues[0];
     if (timestampVal) {
       var parsedDate = (timestampVal instanceof Date) ? timestampVal : new Date(timestampVal);
@@ -92,13 +96,16 @@ function emailMeOnNewLead(e) {
         var diffMs = Math.abs(new Date().getTime() - parsedDate.getTime());
         if (diffMs > 60000) { // 60 seconds threshold
           isEdit = true;
+          if (diffMs > 30 * 60 * 1000) { // 30 minutes threshold
+            isLateEdit = true;
+          }
         }
       }
     }
 
     // Configure email subject and body header based on Edit status
-    var subjectPrefix = isEdit ? "✏️ EDITED PW LEAD: " : "🔥 NEW PW LEAD: ";
-    var bodyHeader = isEdit ? "⚠️ EDIT NOTICE: This student has updated their registration details!" : "You have a new student lead waiting!";
+    var subjectPrefix = isEdit ? (isLateEdit ? "⚠️ LATE EDITED PW LEAD: " : "✏️ EDITED PW LEAD: ") : "🔥 NEW PW LEAD: ";
+    var bodyHeader = isEdit ? (isLateEdit ? "⚠️ WARNING: This response was edited AFTER the 30-minute allowed window!" : "⚠️ EDIT NOTICE: This student has updated their registration details!") : "You have a new student lead waiting!";
 
     // Draft the notification email
     var myEmail = "your-email@gmail.com"; // <-- REPLACE WITH YOUR EMAIL ADDRESS
@@ -107,6 +114,7 @@ function emailMeOnNewLead(e) {
     var body = "Hey Vinay,\n\n" +
                bodyHeader + "\n\n" +
                "👤 Name: " + name + "\n" +
+               "✉️ Email: " + email + "\n" +
                "📞 Mobile: " + mobile + "\n" +
                "💬 WhatsApp: " + whatsapp + "\n" +
                "🎓 Status: " + status + "\n" +
